@@ -1,6 +1,6 @@
 ---
 id: installation-guide
-title: Installation guide
+title: Installation Guide
 sidebar_label: Installation Guide
 ---
 

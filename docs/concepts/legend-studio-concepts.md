@@ -1,7 +1,7 @@
 ---
 id: legend-concepts
-title: Legend Concepts
-sidebar_label: Legend
+title: Legend Components
+sidebar_label: Legend Components
 ---
 
 ## Workspace
@@ -59,13 +59,15 @@ The service editor has two main panels: general and execution. The general panel
 
 See the [tutorial to create services](../tutorials/studio-create-service.md).
 
-## Model-to-Model Mapping
+## Mapping
+
+### Model-to-Model Mapping
 
 Model-to-model mappings are used to create model transformations. Model transformations are used to connect different models.
 
 See the [tutorial to create model-to-model mappings](../tutorials/studio-m2m-mapping.md).
 
-## Relational Mapping
+### Relational Mapping
 
 Connect data to a data model to start querying data leveraging the business-friendly terms and data relationships defined in the data model.
 

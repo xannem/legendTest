@@ -1,6 +1,6 @@
 ---
 id: data-modeling-concepts
-title: Elements of a Data Model
+title: Data Modeling Concepts
 sidebar_label: Data Modeling
 ---
 

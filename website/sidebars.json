@@ -2,10 +2,16 @@
   "docs": {
     "Overview": [
       "overview/legend-overview",
-      "overview/use-cases",
       "overview/architecture"
     ],
-    "Get Started: Studio": [
+    "User Journeys": [
+      "user-journeys/find",
+      "user-journeys/retrieve",
+      "user-journeys/share",
+      "user-journeys/govern",
+      "user-journeys/debug"
+    ],
+    "Getting Started": [
       "getting-started/introduction-to-legend",
       "getting-started/installation-guide"
     ],
@@ -28,6 +34,7 @@
       "concepts/data-modeling-concepts"
     ],
     "Reference Docs": [
+      "reference/showcase-projects",
       "reference/legend-language",
       "reference/released-functions",
       "reference/upcoming-functions",

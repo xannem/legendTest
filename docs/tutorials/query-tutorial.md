@@ -9,12 +9,17 @@ You can build a query directly in Alloy Studio using its drag-and-drop environme
 
 ## Create a Query
 
-_COMING SOON_
+_Coming soon._
+
+## Test Querying your Data model
+
+_Coming soon._
 
 ## Core Features
 
 ### Class Explorer 
-_COMING SOON_
+
+_Coming soon._
 
 ### Function Explorer
 The function explorer shows you all the functions you have defined and lets you drag and drop to selected panels in the query builder including the derviation projection columns.  
@@ -35,7 +40,7 @@ Constants are static values set to a variable name that can be leveraged within 
 
 
 ### Filter
-_COMING SOON_
+_Coming soon._
 
 ### Milestoning 
 
@@ -51,7 +56,7 @@ You can add a watermark to your query through the advanced options tab. If a wat
 
 ### Projection Columns
 
-_COMING SOON_
+_Coming soon._
 
 ### Post Filter
 You may add a filter that will be applied to your Tabular Data Structure Columns that were defined through the projection panel by adding a post-filter.
@@ -71,11 +76,11 @@ See:
 
 ### Result Modifiers
 
-_COMING SOON_
+_Coming soon._
 
 ## Fetch Structure - Graph Fetch 
 
-_COMING SOON_
+_Coming soon._
 
 ## Executing Queries
 

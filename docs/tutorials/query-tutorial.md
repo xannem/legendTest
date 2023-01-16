@@ -38,19 +38,18 @@ Constants are static values set to a variable name that can be leveraged within 
 
 ![Add a constant for milestone value](../assets/query-builder/constants-milestoning.gif)
 
-
 ### Filter
 _Coming soon._
 
 ### Milestoning 
 
 ![Milestoning](../assets/query-builder/milestoning.gif)
+
 ### Watermark
 
 You can add a watermark to your query through the advanced options tab. If a watermark is present, a waterdrop icon will appear on the top left of your query and you can also edit your watermark by clicking that icon. 
 
 ![Watermark](../assets/query-builder/watermark.gif)
-
 
 ## Fetch Structure - Tabular Data Structure 
 
@@ -82,7 +81,23 @@ _Coming soon._
 
 _Coming soon._
 
+## Open an Existing Query 
+
+_Coming soon._
+
+## Edit a Service Query
+
+_Coming soon._
+
 ## Executing Queries
+
+### Query Data as of Specific Dates and Times
+
+_Coming soon._
+
+### Apply operations, transformations, and calculations to your datasets in the Query Editor
+
+_Coming soon._
 
 ### Execute With Parameters
 
@@ -93,11 +108,10 @@ _Coming soon._
 
 Once you are content with your data, you can also export to other types. For now we support exporting your query results to `CSV`.
 
-
 ![Export CSV](../assets/query-builder/export-csv.gif)
 
 ![Export CSV](../assets/query-builder/export-csv-params.gif)
 
 ## More
-- [Legend concepts](../concepts/legend-concepts)
+- [Legend concepts](../overview/legend-glossary.md)
 - [Reference documentation](../reference/legend-language)

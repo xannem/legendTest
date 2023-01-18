@@ -32,7 +32,7 @@ jobs:
       - name: Checkout repo
         uses: actions/checkout@v1
       - name: Install Node
-        uses: actions/setup-node@v1
+        uses: actions/setup-node@v3
       - name: Install Website deps
         run: npm install --prefix v2-website
       # - name: Patch forked version

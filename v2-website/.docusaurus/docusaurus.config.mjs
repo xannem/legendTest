@@ -4,7 +4,7 @@
  * Modify the docusaurus.config.js file at your site's root instead.
  */
 export default {
-  "title": "Legend",
+  "title": "Legend Test",
   "tagline": "Language and visual platform to generate models for the financial services industry",
   "url": "https://legend.finos.org",
   "baseUrl": "/",

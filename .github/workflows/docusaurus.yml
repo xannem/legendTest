@@ -3,7 +3,7 @@ name: Docusaurus-website-build
 # Only trigger on documentation content changes:
 # - Docusaurus files
 # - docs/**
-# - website/**
+# - v2-website/**
 # - releases/**
 on:
   push:
@@ -13,13 +13,13 @@ on:
       - ".github/workflows/docusaurus.yml"
       - ".github/*.md"
       - "docs/**"
-      - "website/**"
+      - "v2-website/**"
       - "releases/**"
   pull_request:
     paths:
       - ".github/workflows/docusaurus.yml"
       - "docs/**"
-      - "website/**"
+      - "v2-website/**"
       - "releases/**"
 
 env:
@@ -37,7 +37,7 @@ jobs:
       - name: Install Node
         uses: actions/setup-node@v1
       - name: Install Website deps
-        run: npm install --prefix website
+        run: npm install --prefix v2-website
       - name: Patch forked version
         run: |
           # Extract GitHub org/user and patch siteConfig.js only if not "finos"
@@ -68,4 +68,4 @@ jobs:
           git config --global user.name "$GIT_USERNAME"
           echo "machine github.com login $GIT_USERNAME password $GITHUB_TOKEN" > ~/.netrc
           # Run docusaurus-publish
-          GIT_USER=$GIT_USERNAME npm run publish-gh-pages --prefix website
+          GIT_USER=$GIT_USERNAME npm run publish-gh-pages --prefix v2-website

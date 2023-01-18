@@ -6,10 +6,10 @@ module.exports = {
     "Language and visual platform to generate models for the financial services industry",
   url: "https://legend.finos.org",
   baseUrl: "/",
-  organizationName: "finos",
+  organizationName: "xannem",
   deploymentBranch: "gh-pages",
   trailingSlash: false,
-  projectName: "legend",
+  projectName: "legendTest",
   scripts: ["https://buttons.github.io/buttons.js"],
   stylesheets: [
     "https://fonts.googleapis.com/css?family=Roboto+Condensed:400,500,700,900|Source+Code+Pro:400,500,700,900&display=swap",

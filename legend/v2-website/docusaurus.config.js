@@ -4,12 +4,12 @@ module.exports = {
   title: "Legend",
   tagline:
     "Language and visual platform to generate models for the financial services industry",
-  url: "https://legend.finos.org",
+  url: "xannem.github.io",
   baseUrl: "/",
   organizationName: "xannem",
   deploymentBranch: "",
   trailingSlash: false,
-  projectName: "legend",
+  projectName: "xannem.github.io",
   scripts: ["https://buttons.github.io/buttons.js"],
   stylesheets: [
     "https://fonts.googleapis.com/css?family=Roboto+Condensed:400,500,700,900|Source+Code+Pro:400,500,700,900&display=swap",

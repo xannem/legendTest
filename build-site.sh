@@ -7,16 +7,16 @@ export LEGEND_MODELS=""
 export DOCS_FOLDER=${PWD}/docs/models
 
 # Import docs from modeling projects in gitlab.com/finos-foundation
-cd /tmp
-mkdir -p ${DOCS_FOLDER}
-for LEGEND_MODEL in ${LEGEND_MODELS}
-do
-    rm -rf ${LEGEND_MODEL}
-    git clone https://gitlab.com/finosfoundation/${LEGEND_MODEL}.git
-    mkdir -p ${DOCS_FOLDER}/${LEGEND_MODEL}
-    cp -Rf ${LEGEND_MODEL}/docs/* ${DOCS_FOLDER}/${LEGEND_MODEL}
-done
-cd -
+# cd /tmp
+# mkdir -p ${DOCS_FOLDER}
+# for LEGEND_MODEL in ${LEGEND_MODELS}
+# do
+#     rm -rf ${LEGEND_MODEL}
+#     git clone https://gitlab.com/finosfoundation/${LEGEND_MODEL}.git
+#     mkdir -p ${DOCS_FOLDER}/${LEGEND_MODEL}
+#     cp -Rf ${LEGEND_MODEL}/docs/* ${DOCS_FOLDER}/${LEGEND_MODEL}
+# done
+# cd -
 
 # Create contribute.md docs page, from CONTRIBUTING.md
 # CONTRIB_MD_PATH=docs/contribute.md

@@ -9,7 +9,7 @@ Thumbs.db
 /.idea/
 
 # Dependencies
-# **/node_modules
+**/node_modules
 
 # Temp
 /temp

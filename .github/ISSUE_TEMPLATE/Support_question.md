@@ -11,5 +11,5 @@ assignees: epsstan, beekemarie
 
 ...ask your question here.
 
-...be sure to review [existing training materials](https://github.com/finos/legend#training-materials)
-and to search [existing issues](https://github.com/finos/legend/issues) since someone might have already asked a similar question.
+...be sure to review [existing training materials](https://xannem.github.io/legendTest#training-materials)
+and to search [existing issues](https://xannem.github.io/legendTest/issues) since someone might have already asked a similar question.

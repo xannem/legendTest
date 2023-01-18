@@ -391,7 +391,7 @@ C207.7,175.1,207.7,172.4,205,170.7L205,170.7z"
               <div class="home-page__header__nav__item">
                 <a
                   class="home-page__header__nav__item__link-btn"
-                  href="https://github.com/finos/legend"
+                  href="https://xannem.github.io/legendTest"
                   target="_self"
                 >
                   Github

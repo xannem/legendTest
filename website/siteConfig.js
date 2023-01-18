@@ -50,7 +50,7 @@ const siteConfig = {
   wrapPagesHTML: true,
   docsSideNavCollapsible: true,
 
-  repoUrl: "https://github.com/finos/legend",
+  repoUrl: "https://xannem.github.io/legendTest",
 };
 
 module.exports = siteConfig;

@@ -68,7 +68,7 @@ Test by going to http://localhost:6300 in a browser. The Swagger page can be acc
 
 Create a configuration file based on your particular environment. This can be JSON or YAML.
 
-A [sample configuration file](https://github.com/finos/legend-sdlc/blob/master/legend-sdlc-server/src/test/resources/config-sample.yaml) is included to help you get started. You will need to replace some `placeholders`, such as Gitlab instance your SDLC server is pointing at.
+A [sample configuration file](https://xannem.github.io/legendTest-sdlc/blob/master/legend-sdlc-server/src/test/resources/config-sample.yaml) is included to help you get started. You will need to replace some `placeholders`, such as Gitlab instance your SDLC server is pointing at.
 
 From the root directory of the `legend-sdlc` repo, follow the steps below in order:
 
@@ -91,11 +91,11 @@ Visit http://localhost:6100/api/auth/authorize in your browser, you might get re
 
 #### Setup **legend-depot**.
 
-Follow this [guide](https://github.com/finos/legend-depot/blob/master/README.md#getting-started) on how to start local Depot.
+Follow this [guide](https://xannem.github.io/legendTest-depot/blob/master/README.md#getting-started) on how to start local Depot.
 
 #### Setup **legend-studio**.
 
-Follow this [guide](https://github.com/finos/legend-studio/blob/master/README.md#getting-started) on how to start local Studio.
+Follow this [guide](https://xannem.github.io/legendTest-studio/blob/master/README.md#getting-started) on how to start local Studio.
 
 #### You're all set 🎉
 
@@ -103,7 +103,7 @@ Visit http://localhost:9000/studio and start hacking
 
 ## Docker Compose
 
-This option is a more automated process to start Legend Docker images for running a proof of concept. Instructions can be found [here](https://github.com/finos/legend/tree/master/installers/docker-compose).
+This option is a more automated process to start Legend Docker images for running a proof of concept. Instructions can be found [here](https://xannem.github.io/legendTest/tree/master/installers/docker-compose).
 
 ## Production Install
 

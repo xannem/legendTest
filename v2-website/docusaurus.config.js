@@ -17,7 +17,7 @@ module.exports = {
   favicon: "img/favicon/favicon.ico",
   customFields: {
     wrapPagesHTML: true,
-    repoUrl: "https://github.com/finos/legend",
+    repoUrl: "https://xannem.github.io/legendTest",
     highlight: {
       theme: "tomorrow-night-blue",
       hljs: function (hljsEngine) {

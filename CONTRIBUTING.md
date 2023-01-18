@@ -10,13 +10,13 @@ If you already use, or are planning to use Legend at an individual or corporate 
 # Get Started
 There are many ways to contribute to Legend, and many of them do not involve writing any code. Here are a few ideas to get started:
 
-1. **Start using Legend Studio to provide feedback, and contribute to, existing models**. Request access to the modeling instance at https://www.finos.org/legend and go through the [Getting Started](https://legend.finos.org/docs/getting-started/installation-guide) guide. Does everything work as expected? If not, we're always looking for improvements. Let us know by [opening an issue](https://github.com/finos/legend/issues/new/choose)
+1. **Start using Legend Studio to provide feedback, and contribute to, existing models**. Request access to the modeling instance at https://www.finos.org/legend and go through the [Getting Started](https://legend.finos.org/docs/getting-started/installation-guide) guide. Does everything work as expected? If not, we're always looking for improvements. Let us know by [opening an issue](https://xannem.github.io/legendTest/issues/new/choose)
 
 2. **Contribute code**
 
 3. **Help build out the documentation.** Read through the [Legend documentation site](https://legend.finos.org/docs). If you find anything that is confusing or can be improved, submit a Pull Request. 
 
-4. **Contribute issues: identify bugs, suggest new features, and provide feedback on prioritization.** Look through the [open issues](https://github.com/finos/legend/issues?q=is%3Aissue+is%3Aopen+). Provide workarounds, ask for clarification, or suggest labels. If you find an issue you would like to fix, [open a pull request](https://github.com/finos/legend/pulls). Issues tagged as Good first issue are a good place to get started. Take a look at the features requested by others in the community and consider opening a pull request if you see something you want to work on.
+4. **Contribute issues: identify bugs, suggest new features, and provide feedback on prioritization.** Look through the [open issues](https://xannem.github.io/legendTest/issues?q=is%3Aissue+is%3Aopen+). Provide workarounds, ask for clarification, or suggest labels. If you find an issue you would like to fix, [open a pull request](https://xannem.github.io/legendTest/pulls). Issues tagged as Good first issue are a good place to get started. Take a look at the features requested by others in the community and consider opening a pull request if you see something you want to work on.
 
 ## Prerequisites 
 If you would like to create and/or edit models in the Legend hosted instance or make Code contributions, you will need to have a GitHub Account. 
@@ -56,7 +56,7 @@ Need an ICLA? Unsure if you are covered under an existing CCLA? Email [help@fino
 FINOS hosts a shared version of Legend Studio in the public cloud, which is available to prototype collaborative data modeling, at https://legend.finos.org/studio. If you would like to access the existing models, please **request access to the modeling instance** at [finos.org/legend](https://www.finos.org/legend).
 
 Once you have requested access to the modeling instance, follow the instructions in the [Legend Documentation Site](https://legend.finos.org/docs/getting-started/create-model) to get started and create a new model or edit existing ones. 
-If you have questions or encounter any issues, please raise an issue at https://github.com/finos/legend/issues.
+If you have questions or encounter any issues, please raise an issue at https://xannem.github.io/legendTest/issues.
 
 ### Suggest Modeling Use Cases
 If you have suggestions or ideas for modeling use cases for which Legend may be appropriate, we'd love to hear your ideas -- send a note with your suggestion to the [Legend General List](legend@finos.org).
@@ -68,14 +68,14 @@ In January 2020, FINOS launched a pilot with FINOS member organizations interest
 The following list is a high-level overview of the code contribution workflow.
 
 1. Read our [Community Code of Conduct](https://www.finos.org/code-of-conduct).
-2. Fork the Legend repository (<https://github.com/finos/legend/fork>).
+2. Fork the Legend repository (<https://xannem.github.io/legendTest/fork>).
 3. Create your feature branch (`git checkout -b feature/fooBar`).
 4. Make and test your changes locally.
 5. Add your changes (`git add <filename containing fooBar change>`).
 6. Commit your changes (`git commit -m 'Add some fooBar'`).
 7. Push to the branch (`git push origin feature/fooBar`).
 8. Optional but recommeded: Do a build in/from your fork; further evaluate and test it.
-9. If all looks good, propose a pull request into the [Legend GitHub repo](https://github.com/finos/legend/pull/new/master) from your fork.
+9. If all looks good, propose a pull request into the [Legend GitHub repo](https://xannem.github.io/legendTest/pull/new/master) from your fork.
 
 ### Propose and submit pull requests
 
@@ -83,15 +83,15 @@ To make review of PRs easier:
 
 - Confirm your PRs will merge cleanly—PRs that don't won't be accepted.
 - For code contributions, follow the existing code layout.
-- For doc contributions, follow the general structure, language, and tone of the [existing docs](https://github.com/finos/legend/wiki).
+- For doc contributions, follow the general structure, language, and tone of the [existing docs](https://xannem.github.io/legendTest/wiki).
 - Keep commits small and cohesive. If you have multiple contributions, submit them as independent commits (and ideally as independent PRs, too).
 - Reference issue #s if your PR has anything to do with an issue (even if it doesn't address it).
 - Minimise non-functional changes (like whitespace).
 - Confirm all new files include a header comment block containing the [Apache License v2.0 and your copyright information](http://www.apache.org/licenses/LICENSE-2.0#apply).
-- If necessary (due to 3rd party dependency licensing requirements), update the [NOTICE file](https://github.com/finos/legend/blob/master/NOTICE) with any new attribution or other notices.
+- If necessary (due to 3rd party dependency licensing requirements), update the [NOTICE file](https://xannem.github.io/legendTest/blob/master/NOTICE) with any new attribution or other notices.
 
 ## 3. Contribute documentation 
-You can get involved with Legend by suggesting topics you'd like to see in our documentation. Suggest a topic for our docs by [opening an issue in our GitHub repo](https://github.com/finos/legend/issues/new/choose). Ideas are also welcome through the [Legend General List](mailto:legend@finos.org).
+You can get involved with Legend by suggesting topics you'd like to see in our documentation. Suggest a topic for our docs by [opening an issue in our GitHub repo](https://xannem.github.io/legendTest/issues/new/choose). Ideas are also welcome through the [Legend General List](mailto:legend@finos.org).
 
 ### Edit the documentation site directly
 
@@ -114,17 +114,17 @@ Once you're satisfied with your documentation changes, commit and propose them i
 - Commit your changes (`git commit -am <short description of what docs you changed/added>`).
 - Push to the branch to your forked repo on GitHub (`git push origin myProposedDocChanges`).
 - Review and test the changes in your fork.
-- If all looks good, propose a pull request into the [FINOS Legend GitHub Repo](https://github.com/finos/legend) from your fork.
+- If all looks good, propose a pull request into the [FINOS Legend GitHub Repo](https://xannem.github.io/legendTest) from your fork.
 
 ### Docusaurus
 
 To learn more about Docusaurus, read the following resources:
 
-- https://github.com/finos/legend/tree/master/website
+- https://xannem.github.io/legendTest/tree/master/website
 - https://finosfoundation.atlassian.net/wiki/spaces/FDX/pages/844759075/Using+Docusaurus+recommended 
 - https://docusaurus.io
 
-**Note:** [The documentation build script](https://github.com/finos/legend/blob/master/build-site.sh) can be configured to pull in and include files from GitLab repositories housing modeling documentation into the GitHub pages/Docusaurus-powered site.
+**Note:** [The documentation build script](https://xannem.github.io/legendTest/blob/master/build-site.sh) can be configured to pull in and include files from GitLab repositories housing modeling documentation into the GitHub pages/Docusaurus-powered site.
 
 
 ## 4. Contribute issues: identify bugs, suggest new features, and provide feedback on prioritization 
@@ -132,13 +132,13 @@ View the prerequisites and steps to report an issue in GitHub.
 
 ### Prerequisites
 
-- [Search for duplicates](https://github.com/finos/legend/issues?utf8=%E2%9C%93&q=). A search for exception error messages or a summary of the unexpected behaviour is enough.
+- [Search for duplicates](https://xannem.github.io/legendTest/issues?utf8=%E2%9C%93&q=). A search for exception error messages or a summary of the unexpected behaviour is enough.
 - Are you running the latest version?
 - Are you sure this is a bug or missing capability?
 
 ### Create an issue in GitHub
 
-1. Create your issue [in GitHub](https://github.com/finos/legend/issues/new).
+1. Create your issue [in GitHub](https://xannem.github.io/legendTest/issues/new).
 2. New issues contain two templates in the description: bug report and enhancement request. Select the most appropriate for your issue, *then delete the other*.
 3. Tag the new issue with either **Bug** or **Enhancement**.
 4. Use [Markdown formatting](https://help.github.com/categories/writing-on-github/) to improve readability. For example, use [code fences](https://help.github.com/articles/creating-and-highlighting-code-blocks/) for exception stack traces and log entries.

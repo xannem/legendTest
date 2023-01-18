@@ -9,19 +9,19 @@ Legend provides an **end-to-end data platform experience covering the full data 
 - Built-in mechanisms for data governance with formal constructs to define ownership, validations, and provenance
 - Code translation to JSON Schema, Protobuf and AVRO, which enables easy interoperability across models and systems
 
-The core component of the **Legend Platform** is [Legend Studio](https://github.com/finos/legend-studio) a visual data modeling environment, that is used to build data models in an intuitive, business-friendly way. Behind the scenes, Legend is backed by a powerful Execution [Engine](https://github.com/finos/legend-engine), and uses GitLab for its Software Development Lifecycle ([SDLC](https://github.com/finos/legend-sdlc)). This enables users to leverage their data models safely in business data processes.
+The core component of the **Legend Platform** is [Legend Studio](https://xannem.github.io/legendTest-studio) a visual data modeling environment, that is used to build data models in an intuitive, business-friendly way. Behind the scenes, Legend is backed by a powerful Execution [Engine](https://xannem.github.io/legendTest-engine), and uses GitLab for its Software Development Lifecycle ([SDLC](https://xannem.github.io/legendTest-sdlc)). This enables users to leverage their data models safely in business data processes.
 
-The [Legend-Pure language](https://github.com/finos/legend-pure) is an immutable functional language based on the Unified Modeling Language (UML) and inspired by the Object Constraint Language (OCL).
+The [Legend-Pure language](https://xannem.github.io/legendTest-pure) is an immutable functional language based on the Unified Modeling Language (UML) and inspired by the Object Constraint Language (OCL).
 
 ## Components
 
 Legend stack comprises several key components. Component-specific issues are opened, maintained, and prioritized within the component specific issue list. These usually involve new feature requests, bug reports or technical, tool-specific questions.
 
-- [Legend Studio](https://github.com/finos/legend-studio/issues)
-- [Legend Engine](https://github.com/finos/legend-engine/issues)
-- [Legend SDLC](https://github.com/finos/legend-sdlc/issues)
-- [Legend Depot](https://github.com/finos/legend-depot/issues)
-- [Legend PURE](https://github.com/finos/legend-pure/issues)
+- [Legend Studio](https://xannem.github.io/legendTest-studio/issues)
+- [Legend Engine](https://xannem.github.io/legendTest-engine/issues)
+- [Legend SDLC](https://xannem.github.io/legendTest-sdlc/issues)
+- [Legend Depot](https://xannem.github.io/legendTest-depot/issues)
+- [Legend PURE](https://xannem.github.io/legendTest-pure/issues)
 
 # Installation
 
@@ -31,11 +31,11 @@ Find installation instructions [here](https://legend.finos.org/docs/getting-star
 
 - [Legend Documentation Site](https://legend.finos.org/)
 - [Legend Getting Started Guide](https://legend.finos.org/docs/getting-started/introduction-to-legend)
-- [Legend Studio User Guide](https://github.com/finos/legend-studio)
+- [Legend Studio User Guide](https://xannem.github.io/legendTest-studio)
 - [Legend Language](https://legend.finos.org/docs/reference/legend-language)
 
 _The [documentation site](https://legend.finos.org) is built using Docusaurus based on the markdown files in the [`docs`](/docs/) folder._
-_Feel free to suggest areas for documentation improvement by raising an [issue](https://github.com/finos/legend/issues)_.
+_Feel free to suggest areas for documentation improvement by raising an [issue](https://xannem.github.io/legendTest/issues)_.
 
 # Contribute
 
@@ -60,7 +60,7 @@ To request an account on the shared instance, use the form at the bottom of [htt
 
 # Questions?
 
-If you have questions about Legend, check out the list of previously asked [questions](https://github.com/finos/legend/issues?q=label%3Aquestion) in case it has already been answered. If you have a new question, feel free to [raise a GitHub issue](https://github.com/finos/legend/issues/new?assignees=&labels=&template=Support_question.md&title=) or to email [legend@finos.org](mailto:legend@finos.org) and the Legend team will get back to you.
+If you have questions about Legend, check out the list of previously asked [questions](https://xannem.github.io/legendTest/issues?q=label%3Aquestion) in case it has already been answered. If you have a new question, feel free to [raise a GitHub issue](https://xannem.github.io/legendTest/issues/new?assignees=&labels=&template=Support_question.md&title=) or to email [legend@finos.org](mailto:legend@finos.org) and the Legend team will get back to you.
 
 ## Join the mailing list
 
@@ -68,7 +68,7 @@ The Legend community uses the legend@finos.org mailing list to communicate with 
 
 # Roadmap
 
-Find the Legend roadmap in the [Legend GitHub repository](https://github.com/finos/legend/wiki/Roadmap)
+Find the Legend roadmap in the [Legend GitHub repository](https://xannem.github.io/legendTest/wiki/Roadmap)
 
 # Code and data model repositories
 
@@ -78,11 +78,11 @@ Legend makes use of both GitHub and GitLab.
 
 The [FINOS GitHub organization](https://github.com/finos/) hosts the Legend open source code: https://www.github.com/finos/legend is the project's parent repository and is used for overall Legend documentation and issue tracking. The code for the components open sourced thus far can be found in the child repositories:
 
-- [github.com/finos/legend-studio](https://github.com/finos/legend-studio)
-- [github.com/finos/legend-sdlc](https://github.com/finos/legend-sdlc)
-- [github.com/finos/legend-engine](https://github.com/finos/legend-engine)
-- [github.com/finos/legend-pure](https://github.com/finos/legend-pure)
-- [github.com/finos/legend-shared](https://github.com/finos/legend-shared)
+- [github.com/finos/legend-studio](https://xannem.github.io/legendTest-studio)
+- [github.com/finos/legend-sdlc](https://xannem.github.io/legendTest-sdlc)
+- [github.com/finos/legend-engine](https://xannem.github.io/legendTest-engine)
+- [github.com/finos/legend-pure](https://xannem.github.io/legendTest-pure)
+- [github.com/finos/legend-shared](https://xannem.github.io/legendTest-shared)
 
 ## GitLab
 

@@ -51,12 +51,17 @@ cd -
 # sed 1d .github/ROADMAP.md >> $ROADMAP_MD_PATH
 # fi
 
+
+echo "Some console and log file message" 
 # Where the docusaurus app lives
 cd v2-website
 
+
+echo "yarn install" 
 # Install docusaurus deps
 yarn install
 
+echo "yarn build" 
 # Build Docusaurus site
 yarn build
 

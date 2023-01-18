@@ -9,7 +9,7 @@ module.exports = {
   organizationName: "xannem",
   deploymentBranch: "",
   trailingSlash: false,
-  projectName: "xannem.github.io",
+  projectName: "legendTest",
   scripts: ["https://buttons.github.io/buttons.js"],
   stylesheets: [
     "https://fonts.googleapis.com/css?family=Roboto+Condensed:400,500,700,900|Source+Code+Pro:400,500,700,900&display=swap",
@@ -17,7 +17,7 @@ module.exports = {
   favicon: "img/favicon/favicon.ico",
   customFields: {
     wrapPagesHTML: true,
-    repoUrl: "https://github.com/finos/legend",
+    repoUrl: "https://xannem.github.io/legendTest",
     highlight: {
       theme: "tomorrow-night-blue",
       hljs: function (hljsEngine) {

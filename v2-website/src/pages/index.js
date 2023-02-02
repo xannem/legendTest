@@ -97,7 +97,7 @@ function WhatIsLegend() {
     <article class="home-page__content__whatis">
       <div class="home-page__content__container">
         <div class="home-page__content__whatis__title">
-          <div class="home-page__content__whatis__title__pre">SVP What is</div>
+          <div class="home-page__content__whatis__title__pre">SVP123 What is</div>
           <svg
             class="home-page__content__whatis__title__logo"
             width="100%"

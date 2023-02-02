@@ -6,7 +6,7 @@
   "source": "@site/../docs/getting-started/introduction-to-legend.md",
   "sourceDirName": "getting-started",
   "slug": "/getting-started/introduction-to-legend",
-  "permalink": "/docs/getting-started/introduction-to-legend",
+  "permalink": "/legendTest/docs/getting-started/introduction-to-legend",
   "draft": false,
   "tags": [],
   "version": "current",
@@ -18,10 +18,10 @@
   "sidebar": "docs",
   "previous": {
     "title": "Architecture",
-    "permalink": "/docs/overview/architecture"
+    "permalink": "/legendTest/docs/overview/architecture"
   },
   "next": {
     "title": "Installation Guide",
-    "permalink": "/docs/getting-started/installation-guide"
+    "permalink": "/legendTest/docs/getting-started/installation-guide"
   }
 }

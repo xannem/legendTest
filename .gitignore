@@ -8,8 +8,12 @@ Thumbs.db
 # IDE
 /.idea/
 
+v2-website/.docusaurus/*
+
 # Dependencies
 **/node_modules
+**/.docusaurus
+
 
 # Temp
 /temp

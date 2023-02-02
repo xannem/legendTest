@@ -6,7 +6,7 @@
   "source": "@site/../docs/community/legend-roadmap.md",
   "sourceDirName": "community",
   "slug": "/community/legend-roadmap",
-  "permalink": "/docs/community/legend-roadmap",
+  "permalink": "/legendTest/docs/community/legend-roadmap",
   "draft": false,
   "tags": [],
   "version": "current",
@@ -18,10 +18,10 @@
   "sidebar": "docs",
   "previous": {
     "title": "Contribute",
-    "permalink": "/docs/community/contribute-to-legend"
+    "permalink": "/legendTest/docs/community/contribute-to-legend"
   },
   "next": {
     "title": "Get Help",
-    "permalink": "/docs/community/get-help-from-community"
+    "permalink": "/legendTest/docs/community/get-help-from-community"
   }
 }

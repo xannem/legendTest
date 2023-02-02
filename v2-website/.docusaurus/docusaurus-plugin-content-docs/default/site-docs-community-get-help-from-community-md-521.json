@@ -6,7 +6,7 @@
   "source": "@site/../docs/community/get-help-from-community.md",
   "sourceDirName": "community",
   "slug": "/community/get-help-from-community",
-  "permalink": "/docs/community/get-help-from-community",
+  "permalink": "/legendTest/docs/community/get-help-from-community",
   "draft": false,
   "tags": [],
   "version": "current",
@@ -18,10 +18,10 @@
   "sidebar": "docs",
   "previous": {
     "title": "Roadmap",
-    "permalink": "/docs/community/legend-roadmap"
+    "permalink": "/legendTest/docs/community/legend-roadmap"
   },
   "next": {
     "title": "Legend in the Media",
-    "permalink": "/docs/community/legend-media"
+    "permalink": "/legendTest/docs/community/legend-media"
   }
 }

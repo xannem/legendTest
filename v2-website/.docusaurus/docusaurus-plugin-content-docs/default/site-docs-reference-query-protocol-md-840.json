@@ -6,7 +6,7 @@
   "source": "@site/../docs/reference/query-protocol.md",
   "sourceDirName": "reference",
   "slug": "/reference/query-protocol",
-  "permalink": "/docs/reference/query-protocol",
+  "permalink": "/legendTest/docs/reference/query-protocol",
   "draft": false,
   "tags": [],
   "version": "current",
@@ -18,10 +18,10 @@
   "sidebar": "docs",
   "previous": {
     "title": "Bindings",
-    "permalink": "/docs/reference/bindings"
+    "permalink": "/legendTest/docs/reference/bindings"
   },
   "next": {
     "title": "Release 2022-05-05",
-    "permalink": "/docs/release/release-2022-05-05"
+    "permalink": "/legendTest/docs/release/release-2022-05-05"
   }
 }

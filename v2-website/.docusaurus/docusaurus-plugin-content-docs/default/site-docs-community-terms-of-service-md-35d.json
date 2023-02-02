@@ -6,7 +6,7 @@
   "source": "@site/../docs/community/terms-of-service.md",
   "sourceDirName": "community",
   "slug": "/community/terms-of-service",
-  "permalink": "/docs/community/terms-of-service",
+  "permalink": "/legendTest/docs/community/terms-of-service",
   "draft": false,
   "tags": [],
   "version": "current",
@@ -18,6 +18,6 @@
   "sidebar": "docs",
   "previous": {
     "title": "Legend in the Media",
-    "permalink": "/docs/community/legend-media"
+    "permalink": "/legendTest/docs/community/legend-media"
   }
 }

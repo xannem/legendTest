@@ -6,7 +6,7 @@
   "source": "@site/../docs/reference/stores.md",
   "sourceDirName": "reference",
   "slug": "/reference/stores",
-  "permalink": "/docs/reference/stores",
+  "permalink": "/legendTest/docs/reference/stores",
   "draft": false,
   "tags": [],
   "version": "current",
@@ -18,10 +18,10 @@
   "sidebar": "docs",
   "previous": {
     "title": "Upcoming functions",
-    "permalink": "/docs/reference/upcoming-functions"
+    "permalink": "/legendTest/docs/reference/upcoming-functions"
   },
   "next": {
     "title": "Bindings",
-    "permalink": "/docs/reference/bindings"
+    "permalink": "/legendTest/docs/reference/bindings"
   }
 }

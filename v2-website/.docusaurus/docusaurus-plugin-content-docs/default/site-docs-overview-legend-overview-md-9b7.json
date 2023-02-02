@@ -6,7 +6,7 @@
   "source": "@site/../docs/overview/legend-overview.md",
   "sourceDirName": "overview",
   "slug": "/overview/legend-overview",
-  "permalink": "/docs/overview/legend-overview",
+  "permalink": "/legendTest/docs/overview/legend-overview",
   "draft": false,
   "tags": [],
   "version": "current",
@@ -18,6 +18,6 @@
   "sidebar": "docs",
   "next": {
     "title": "Use Cases",
-    "permalink": "/docs/overview/use-cases"
+    "permalink": "/legendTest/docs/overview/use-cases"
   }
 }

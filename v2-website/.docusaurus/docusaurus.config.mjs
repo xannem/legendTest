@@ -6,12 +6,12 @@
 export default {
   "title": "Legend",
   "tagline": "Language and visual platform to generate models for the financial services industry",
-  "url": "https://legend.finos.org",
-  "baseUrl": "/",
-  "organizationName": "finos",
+  "url": "https://xannem.github.io",
+  "baseUrl": "/legendTest/",
+  "organizationName": "xannem",
   "deploymentBranch": "gh-pages",
-  "trailingSlash": true,
-  "projectName": "legend",
+  "trailingSlash": false,
+  "projectName": "legendTest",
   "scripts": [
     "https://buttons.github.io/buttons.js"
   ],
@@ -21,7 +21,7 @@ export default {
   "favicon": "img/favicon/favicon.ico",
   "customFields": {
     "wrapPagesHTML": true,
-    "repoUrl": "https://github.com/finos/legend",
+    "repoUrl": "https://github.com/xannem/legendTest/",
     "highlight": {
       "theme": "tomorrow-night-blue"
     }
@@ -51,14 +51,6 @@ export default {
     null
   ],
   "themeConfig": {
-    "algolia": {
-      "appId": "X69JR631XX",
-      "apiKey": "b8ea4fa1535a60bc9385193ba58dcd69",
-      "indexName": "legend-finos",
-      "contextualSearch": false,
-      "searchPagePath": "search",
-      "searchParameters": {}
-    },
     "colorMode": {
       "defaultMode": "dark",
       "disableSwitch": false,

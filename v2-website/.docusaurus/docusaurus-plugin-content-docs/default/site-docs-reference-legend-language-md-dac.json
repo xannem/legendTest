@@ -6,7 +6,7 @@
   "source": "@site/../docs/reference/legend-language.md",
   "sourceDirName": "reference",
   "slug": "/reference/legend-language",
-  "permalink": "/docs/reference/legend-language",
+  "permalink": "/legendTest/docs/reference/legend-language",
   "draft": false,
   "tags": [],
   "version": "current",
@@ -18,10 +18,10 @@
   "sidebar": "docs",
   "previous": {
     "title": "Data Modeling Concepts",
-    "permalink": "/docs/concepts/data-modeling-concepts"
+    "permalink": "/legendTest/docs/concepts/data-modeling-concepts"
   },
   "next": {
     "title": "Released functions",
-    "permalink": "/docs/reference/released-functions"
+    "permalink": "/legendTest/docs/reference/released-functions"
   }
 }

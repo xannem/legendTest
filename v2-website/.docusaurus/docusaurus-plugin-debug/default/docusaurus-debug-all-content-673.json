@@ -9,8 +9,8 @@
           "badge": false,
           "noIndex": false,
           "className": "docs-version-current",
-          "path": "/docs",
-          "tagsPath": "/docs/tags",
+          "path": "/legendTest/docs",
+          "tagsPath": "/legendTest/docs/tags",
           "isLast": true,
           "routePriority": -1,
           "sidebarFilePath": "/Users/shoe/Documents/Github/legendTest/v2-website/sidebars.json",
@@ -25,7 +25,7 @@
               "source": "@site/../docs/case-studies/legend-case-studies.md",
               "sourceDirName": "case-studies",
               "slug": "/case-studies/legend-case-studies",
-              "permalink": "/docs/case-studies/legend-case-studies",
+              "permalink": "/legendTest/docs/case-studies/legend-case-studies",
               "draft": false,
               "tags": [],
               "version": "current",
@@ -37,11 +37,11 @@
               "sidebar": "docs",
               "previous": {
                 "title": "Release 2021-10-18",
-                "permalink": "/docs/release/release-2021-10-18"
+                "permalink": "/legendTest/docs/release/release-2021-10-18"
               },
               "next": {
                 "title": "Contribute",
-                "permalink": "/docs/community/contribute-to-legend"
+                "permalink": "/legendTest/docs/community/contribute-to-legend"
               }
             },
             {
@@ -52,7 +52,7 @@
               "source": "@site/../docs/community/contribute-to-legend.md",
               "sourceDirName": "community",
               "slug": "/community/contribute-to-legend",
-              "permalink": "/docs/community/contribute-to-legend",
+              "permalink": "/legendTest/docs/community/contribute-to-legend",
               "draft": false,
               "tags": [],
               "version": "current",
@@ -64,11 +64,11 @@
               "sidebar": "docs",
               "previous": {
                 "title": "Case Studies",
-                "permalink": "/docs/case-studies/legend-case-studies"
+                "permalink": "/legendTest/docs/case-studies/legend-case-studies"
               },
               "next": {
                 "title": "Roadmap",
-                "permalink": "/docs/community/legend-roadmap"
+                "permalink": "/legendTest/docs/community/legend-roadmap"
               }
             },
             {
@@ -79,7 +79,7 @@
               "source": "@site/../docs/community/get-help-from-community.md",
               "sourceDirName": "community",
               "slug": "/community/get-help-from-community",
-              "permalink": "/docs/community/get-help-from-community",
+              "permalink": "/legendTest/docs/community/get-help-from-community",
               "draft": false,
               "tags": [],
               "version": "current",
@@ -91,11 +91,11 @@
               "sidebar": "docs",
               "previous": {
                 "title": "Roadmap",
-                "permalink": "/docs/community/legend-roadmap"
+                "permalink": "/legendTest/docs/community/legend-roadmap"
               },
               "next": {
                 "title": "Legend in the Media",
-                "permalink": "/docs/community/legend-media"
+                "permalink": "/legendTest/docs/community/legend-media"
               }
             },
             {
@@ -106,7 +106,7 @@
               "source": "@site/../docs/community/legend-media.md",
               "sourceDirName": "community",
               "slug": "/community/legend-media",
-              "permalink": "/docs/community/legend-media",
+              "permalink": "/legendTest/docs/community/legend-media",
               "draft": false,
               "tags": [],
               "version": "current",
@@ -118,11 +118,11 @@
               "sidebar": "docs",
               "previous": {
                 "title": "Get Help",
-                "permalink": "/docs/community/get-help-from-community"
+                "permalink": "/legendTest/docs/community/get-help-from-community"
               },
               "next": {
                 "title": "Terms of service",
-                "permalink": "/docs/community/terms-of-service"
+                "permalink": "/legendTest/docs/community/terms-of-service"
               }
             },
             {
@@ -133,7 +133,7 @@
               "source": "@site/../docs/community/legend-roadmap.md",
               "sourceDirName": "community",
               "slug": "/community/legend-roadmap",
-              "permalink": "/docs/community/legend-roadmap",
+              "permalink": "/legendTest/docs/community/legend-roadmap",
               "draft": false,
               "tags": [],
               "version": "current",
@@ -145,11 +145,11 @@
               "sidebar": "docs",
               "previous": {
                 "title": "Contribute",
-                "permalink": "/docs/community/contribute-to-legend"
+                "permalink": "/legendTest/docs/community/contribute-to-legend"
               },
               "next": {
                 "title": "Get Help",
-                "permalink": "/docs/community/get-help-from-community"
+                "permalink": "/legendTest/docs/community/get-help-from-community"
               }
             },
             {
@@ -160,7 +160,7 @@
               "source": "@site/../docs/community/terms-of-service.md",
               "sourceDirName": "community",
               "slug": "/community/terms-of-service",
-              "permalink": "/docs/community/terms-of-service",
+              "permalink": "/legendTest/docs/community/terms-of-service",
               "draft": false,
               "tags": [],
               "version": "current",
@@ -172,7 +172,7 @@
               "sidebar": "docs",
               "previous": {
                 "title": "Legend in the Media",
-                "permalink": "/docs/community/legend-media"
+                "permalink": "/legendTest/docs/community/legend-media"
               }
             },
             {
@@ -183,7 +183,7 @@
               "source": "@site/../docs/concepts/data-modeling-concepts.md",
               "sourceDirName": "concepts",
               "slug": "/concepts/data-modeling-concepts",
-              "permalink": "/docs/concepts/data-modeling-concepts",
+              "permalink": "/legendTest/docs/concepts/data-modeling-concepts",
               "draft": false,
               "tags": [],
               "version": "current",
@@ -195,11 +195,11 @@
               "sidebar": "docs",
               "previous": {
                 "title": "Legend Concepts",
-                "permalink": "/docs/concepts/legend-concepts"
+                "permalink": "/legendTest/docs/concepts/legend-concepts"
               },
               "next": {
                 "title": "Legend Language",
-                "permalink": "/docs/reference/legend-language"
+                "permalink": "/legendTest/docs/reference/legend-language"
               }
             },
             {
@@ -210,7 +210,7 @@
               "source": "@site/../docs/concepts/legend-studio-concepts.md",
               "sourceDirName": "concepts",
               "slug": "/concepts/legend-concepts",
-              "permalink": "/docs/concepts/legend-concepts",
+              "permalink": "/legendTest/docs/concepts/legend-concepts",
               "draft": false,
               "tags": [],
               "version": "current",
@@ -222,11 +222,11 @@
               "sidebar": "docs",
               "previous": {
                 "title": "Query",
-                "permalink": "/docs/tutorials/query-tutorial"
+                "permalink": "/legendTest/docs/tutorials/query-tutorial"
               },
               "next": {
                 "title": "Data Modeling Concepts",
-                "permalink": "/docs/concepts/data-modeling-concepts"
+                "permalink": "/legendTest/docs/concepts/data-modeling-concepts"
               }
             },
             {
@@ -237,7 +237,7 @@
               "source": "@site/../docs/getting-started/installation-guide.md",
               "sourceDirName": "getting-started",
               "slug": "/getting-started/installation-guide",
-              "permalink": "/docs/getting-started/installation-guide",
+              "permalink": "/legendTest/docs/getting-started/installation-guide",
               "draft": false,
               "tags": [],
               "version": "current",
@@ -249,11 +249,11 @@
               "sidebar": "docs",
               "previous": {
                 "title": "Introduction to Legend",
-                "permalink": "/docs/getting-started/introduction-to-legend"
+                "permalink": "/legendTest/docs/getting-started/introduction-to-legend"
               },
               "next": {
                 "title": "Studio",
-                "permalink": "/docs/tutorials/studio-tutorial"
+                "permalink": "/legendTest/docs/tutorials/studio-tutorial"
               }
             },
             {
@@ -264,7 +264,7 @@
               "source": "@site/../docs/getting-started/introduction-to-legend.md",
               "sourceDirName": "getting-started",
               "slug": "/getting-started/introduction-to-legend",
-              "permalink": "/docs/getting-started/introduction-to-legend",
+              "permalink": "/legendTest/docs/getting-started/introduction-to-legend",
               "draft": false,
               "tags": [],
               "version": "current",
@@ -276,11 +276,11 @@
               "sidebar": "docs",
               "previous": {
                 "title": "Architecture",
-                "permalink": "/docs/overview/architecture"
+                "permalink": "/legendTest/docs/overview/architecture"
               },
               "next": {
                 "title": "Installation Guide",
-                "permalink": "/docs/getting-started/installation-guide"
+                "permalink": "/legendTest/docs/getting-started/installation-guide"
               }
             },
             {
@@ -291,7 +291,7 @@
               "source": "@site/../docs/overview/architecture.md",
               "sourceDirName": "overview",
               "slug": "/overview/architecture",
-              "permalink": "/docs/overview/architecture",
+              "permalink": "/legendTest/docs/overview/architecture",
               "draft": false,
               "tags": [],
               "version": "current",
@@ -303,11 +303,11 @@
               "sidebar": "docs",
               "previous": {
                 "title": "Use Cases",
-                "permalink": "/docs/overview/use-cases"
+                "permalink": "/legendTest/docs/overview/use-cases"
               },
               "next": {
                 "title": "Introduction to Legend",
-                "permalink": "/docs/getting-started/introduction-to-legend"
+                "permalink": "/legendTest/docs/getting-started/introduction-to-legend"
               }
             },
             {
@@ -318,7 +318,7 @@
               "source": "@site/../docs/overview/legend-overview.md",
               "sourceDirName": "overview",
               "slug": "/overview/legend-overview",
-              "permalink": "/docs/overview/legend-overview",
+              "permalink": "/legendTest/docs/overview/legend-overview",
               "draft": false,
               "tags": [],
               "version": "current",
@@ -330,7 +330,7 @@
               "sidebar": "docs",
               "next": {
                 "title": "Use Cases",
-                "permalink": "/docs/overview/use-cases"
+                "permalink": "/legendTest/docs/overview/use-cases"
               }
             },
             {
@@ -341,7 +341,7 @@
               "source": "@site/../docs/overview/use-cases.md",
               "sourceDirName": "overview",
               "slug": "/overview/use-cases",
-              "permalink": "/docs/overview/use-cases",
+              "permalink": "/legendTest/docs/overview/use-cases",
               "draft": false,
               "tags": [],
               "version": "current",
@@ -353,11 +353,11 @@
               "sidebar": "docs",
               "previous": {
                 "title": "What is Legend?",
-                "permalink": "/docs/overview/legend-overview"
+                "permalink": "/legendTest/docs/overview/legend-overview"
               },
               "next": {
                 "title": "Architecture",
-                "permalink": "/docs/overview/architecture"
+                "permalink": "/legendTest/docs/overview/architecture"
               }
             },
             {
@@ -368,7 +368,7 @@
               "source": "@site/../docs/reference/bindings.md",
               "sourceDirName": "reference",
               "slug": "/reference/bindings",
-              "permalink": "/docs/reference/bindings",
+              "permalink": "/legendTest/docs/reference/bindings",
               "draft": false,
               "tags": [],
               "version": "current",
@@ -380,11 +380,11 @@
               "sidebar": "docs",
               "previous": {
                 "title": "Stores",
-                "permalink": "/docs/reference/stores"
+                "permalink": "/legendTest/docs/reference/stores"
               },
               "next": {
                 "title": "Query Protocol",
-                "permalink": "/docs/reference/query-protocol"
+                "permalink": "/legendTest/docs/reference/query-protocol"
               }
             },
             {
@@ -395,7 +395,7 @@
               "source": "@site/../docs/reference/legend-language.md",
               "sourceDirName": "reference",
               "slug": "/reference/legend-language",
-              "permalink": "/docs/reference/legend-language",
+              "permalink": "/legendTest/docs/reference/legend-language",
               "draft": false,
               "tags": [],
               "version": "current",
@@ -407,11 +407,11 @@
               "sidebar": "docs",
               "previous": {
                 "title": "Data Modeling Concepts",
-                "permalink": "/docs/concepts/data-modeling-concepts"
+                "permalink": "/legendTest/docs/concepts/data-modeling-concepts"
               },
               "next": {
                 "title": "Released functions",
-                "permalink": "/docs/reference/released-functions"
+                "permalink": "/legendTest/docs/reference/released-functions"
               }
             },
             {
@@ -422,7 +422,7 @@
               "source": "@site/../docs/reference/query-protocol.md",
               "sourceDirName": "reference",
               "slug": "/reference/query-protocol",
-              "permalink": "/docs/reference/query-protocol",
+              "permalink": "/legendTest/docs/reference/query-protocol",
               "draft": false,
               "tags": [],
               "version": "current",
@@ -434,11 +434,11 @@
               "sidebar": "docs",
               "previous": {
                 "title": "Bindings",
-                "permalink": "/docs/reference/bindings"
+                "permalink": "/legendTest/docs/reference/bindings"
               },
               "next": {
                 "title": "Release 2022-05-05",
-                "permalink": "/docs/release/release-2022-05-05"
+                "permalink": "/legendTest/docs/release/release-2022-05-05"
               }
             },
             {
@@ -449,7 +449,7 @@
               "source": "@site/../docs/reference/released-functions.md",
               "sourceDirName": "reference",
               "slug": "/reference/released-functions",
-              "permalink": "/docs/reference/released-functions",
+              "permalink": "/legendTest/docs/reference/released-functions",
               "draft": false,
               "tags": [],
               "version": "current",
@@ -460,11 +460,11 @@
               "sidebar": "docs",
               "previous": {
                 "title": "Legend Language",
-                "permalink": "/docs/reference/legend-language"
+                "permalink": "/legendTest/docs/reference/legend-language"
               },
               "next": {
                 "title": "Upcoming functions",
-                "permalink": "/docs/reference/upcoming-functions"
+                "permalink": "/legendTest/docs/reference/upcoming-functions"
               }
             },
             {
@@ -475,7 +475,7 @@
               "source": "@site/../docs/reference/stores.md",
               "sourceDirName": "reference",
               "slug": "/reference/stores",
-              "permalink": "/docs/reference/stores",
+              "permalink": "/legendTest/docs/reference/stores",
               "draft": false,
               "tags": [],
               "version": "current",
@@ -487,11 +487,11 @@
               "sidebar": "docs",
               "previous": {
                 "title": "Upcoming functions",
-                "permalink": "/docs/reference/upcoming-functions"
+                "permalink": "/legendTest/docs/reference/upcoming-functions"
               },
               "next": {
                 "title": "Bindings",
-                "permalink": "/docs/reference/bindings"
+                "permalink": "/legendTest/docs/reference/bindings"
               }
             },
             {
@@ -502,7 +502,7 @@
               "source": "@site/../docs/reference/upcoming-functions.md",
               "sourceDirName": "reference",
               "slug": "/reference/upcoming-functions",
-              "permalink": "/docs/reference/upcoming-functions",
+              "permalink": "/legendTest/docs/reference/upcoming-functions",
               "draft": false,
               "tags": [],
               "version": "current",
@@ -513,11 +513,11 @@
               "sidebar": "docs",
               "previous": {
                 "title": "Released functions",
-                "permalink": "/docs/reference/released-functions"
+                "permalink": "/legendTest/docs/reference/released-functions"
               },
               "next": {
                 "title": "Stores",
-                "permalink": "/docs/reference/stores"
+                "permalink": "/legendTest/docs/reference/stores"
               }
             },
             {
@@ -528,7 +528,7 @@
               "source": "@site/../docs/release/2021-10-18.md",
               "sourceDirName": "release",
               "slug": "/release/release-2021-10-18",
-              "permalink": "/docs/release/release-2021-10-18",
+              "permalink": "/legendTest/docs/release/release-2021-10-18",
               "draft": false,
               "tags": [],
               "version": "current",
@@ -540,11 +540,11 @@
               "sidebar": "docs",
               "previous": {
                 "title": "Release 2022-04-26",
-                "permalink": "/docs/release/release-2022-04-26"
+                "permalink": "/legendTest/docs/release/release-2022-04-26"
               },
               "next": {
                 "title": "Case Studies",
-                "permalink": "/docs/case-studies/legend-case-studies"
+                "permalink": "/legendTest/docs/case-studies/legend-case-studies"
               }
             },
             {
@@ -555,7 +555,7 @@
               "source": "@site/../docs/release/2022-04-26.md",
               "sourceDirName": "release",
               "slug": "/release/release-2022-04-26",
-              "permalink": "/docs/release/release-2022-04-26",
+              "permalink": "/legendTest/docs/release/release-2022-04-26",
               "draft": false,
               "tags": [],
               "version": "current",
@@ -567,11 +567,11 @@
               "sidebar": "docs",
               "previous": {
                 "title": "Release 2022-05-05",
-                "permalink": "/docs/release/release-2022-05-05"
+                "permalink": "/legendTest/docs/release/release-2022-05-05"
               },
               "next": {
                 "title": "Release 2021-10-18",
-                "permalink": "/docs/release/release-2021-10-18"
+                "permalink": "/legendTest/docs/release/release-2021-10-18"
               }
             },
             {
@@ -582,7 +582,7 @@
               "source": "@site/../docs/release/2022-05-05.md",
               "sourceDirName": "release",
               "slug": "/release/release-2022-05-05",
-              "permalink": "/docs/release/release-2022-05-05",
+              "permalink": "/legendTest/docs/release/release-2022-05-05",
               "draft": false,
               "tags": [],
               "version": "current",
@@ -594,11 +594,11 @@
               "sidebar": "docs",
               "previous": {
                 "title": "Query Protocol",
-                "permalink": "/docs/reference/query-protocol"
+                "permalink": "/legendTest/docs/reference/query-protocol"
               },
               "next": {
                 "title": "Release 2022-04-26",
-                "permalink": "/docs/release/release-2022-04-26"
+                "permalink": "/legendTest/docs/release/release-2022-04-26"
               }
             },
             {
@@ -609,7 +609,7 @@
               "source": "@site/../docs/sdlc/project-structure.md",
               "sourceDirName": "sdlc",
               "slug": "/sdlc/project-structure",
-              "permalink": "/docs/sdlc/project-structure",
+              "permalink": "/legendTest/docs/sdlc/project-structure",
               "draft": false,
               "tags": [],
               "version": "current",
@@ -623,7 +623,7 @@
               "source": "@site/../docs/showcases/LogicalModellingBasic.md",
               "sourceDirName": "showcases",
               "slug": "/showcases/LogicalModellingBasic",
-              "permalink": "/docs/showcases/LogicalModellingBasic",
+              "permalink": "/legendTest/docs/showcases/LogicalModellingBasic",
               "draft": false,
               "tags": [],
               "version": "current",
@@ -637,7 +637,7 @@
               "source": "@site/../docs/tour/tour.md",
               "sourceDirName": "tour",
               "slug": "/tour/",
-              "permalink": "/docs/tour/",
+              "permalink": "/legendTest/docs/tour/",
               "draft": false,
               "tags": [],
               "version": "current",
@@ -651,7 +651,7 @@
               "source": "@site/../docs/tutorials/query-tutorial.md",
               "sourceDirName": "tutorials",
               "slug": "/tutorials/query-tutorial",
-              "permalink": "/docs/tutorials/query-tutorial",
+              "permalink": "/legendTest/docs/tutorials/query-tutorial",
               "draft": false,
               "tags": [],
               "version": "current",
@@ -663,11 +663,11 @@
               "sidebar": "docs",
               "previous": {
                 "title": "Studio",
-                "permalink": "/docs/tutorials/studio-tutorial"
+                "permalink": "/legendTest/docs/tutorials/studio-tutorial"
               },
               "next": {
                 "title": "Legend Concepts",
-                "permalink": "/docs/concepts/legend-concepts"
+                "permalink": "/legendTest/docs/concepts/legend-concepts"
               }
             },
             {
@@ -678,7 +678,7 @@
               "source": "@site/../docs/tutorials/studio-tutorial.md",
               "sourceDirName": "tutorials",
               "slug": "/tutorials/studio-tutorial",
-              "permalink": "/docs/tutorials/studio-tutorial",
+              "permalink": "/legendTest/docs/tutorials/studio-tutorial",
               "draft": false,
               "tags": [],
               "version": "current",
@@ -690,11 +690,11 @@
               "sidebar": "docs",
               "previous": {
                 "title": "Installation Guide",
-                "permalink": "/docs/getting-started/installation-guide"
+                "permalink": "/legendTest/docs/getting-started/installation-guide"
               },
               "next": {
                 "title": "Query",
-                "permalink": "/docs/tutorials/query-tutorial"
+                "permalink": "/legendTest/docs/tutorials/query-tutorial"
               }
             }
           ],
@@ -873,7 +873,7 @@
       "blogPosts": [],
       "blogListPaginated": [],
       "blogTags": {},
-      "blogTagsListPath": "/blog/tags",
+      "blogTagsListPath": "/legendTest/blog/tags",
       "blogTagsPaginated": []
     }
   },
@@ -881,7 +881,7 @@
     "default": [
       {
         "type": "jsx",
-        "permalink": "/",
+        "permalink": "/legendTest/",
         "source": "@site/src/pages/index.js"
       }
     ]
@@ -889,7 +889,6 @@
   "docusaurus-plugin-google-analytics": {},
   "docusaurus-plugin-debug": {},
   "docusaurus-theme-classic": {},
-  "docusaurus-theme-search-algolia": {},
   "docusaurus-releases-plugin": {
     "default": [
       {

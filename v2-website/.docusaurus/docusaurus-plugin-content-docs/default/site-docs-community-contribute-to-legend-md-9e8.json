@@ -6,7 +6,7 @@
   "source": "@site/../docs/community/contribute-to-legend.md",
   "sourceDirName": "community",
   "slug": "/community/contribute-to-legend",
-  "permalink": "/docs/community/contribute-to-legend",
+  "permalink": "/legendTest/docs/community/contribute-to-legend",
   "draft": false,
   "tags": [],
   "version": "current",
@@ -18,10 +18,10 @@
   "sidebar": "docs",
   "previous": {
     "title": "Case Studies",
-    "permalink": "/docs/case-studies/legend-case-studies"
+    "permalink": "/legendTest/docs/case-studies/legend-case-studies"
   },
   "next": {
     "title": "Roadmap",
-    "permalink": "/docs/community/legend-roadmap"
+    "permalink": "/legendTest/docs/community/legend-roadmap"
   }
 }

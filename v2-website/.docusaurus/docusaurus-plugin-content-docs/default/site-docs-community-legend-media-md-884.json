@@ -6,7 +6,7 @@
   "source": "@site/../docs/community/legend-media.md",
   "sourceDirName": "community",
   "slug": "/community/legend-media",
-  "permalink": "/docs/community/legend-media",
+  "permalink": "/legendTest/docs/community/legend-media",
   "draft": false,
   "tags": [],
   "version": "current",
@@ -18,10 +18,10 @@
   "sidebar": "docs",
   "previous": {
     "title": "Get Help",
-    "permalink": "/docs/community/get-help-from-community"
+    "permalink": "/legendTest/docs/community/get-help-from-community"
   },
   "next": {
     "title": "Terms of service",
-    "permalink": "/docs/community/terms-of-service"
+    "permalink": "/legendTest/docs/community/terms-of-service"
   }
 }

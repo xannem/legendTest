@@ -6,7 +6,7 @@
   "source": "@site/../docs/reference/bindings.md",
   "sourceDirName": "reference",
   "slug": "/reference/bindings",
-  "permalink": "/docs/reference/bindings",
+  "permalink": "/legendTest/docs/reference/bindings",
   "draft": false,
   "tags": [],
   "version": "current",
@@ -18,10 +18,10 @@
   "sidebar": "docs",
   "previous": {
     "title": "Stores",
-    "permalink": "/docs/reference/stores"
+    "permalink": "/legendTest/docs/reference/stores"
   },
   "next": {
     "title": "Query Protocol",
-    "permalink": "/docs/reference/query-protocol"
+    "permalink": "/legendTest/docs/reference/query-protocol"
   }
 }

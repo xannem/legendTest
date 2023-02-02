@@ -6,7 +6,7 @@
   "source": "@site/../docs/overview/use-cases.md",
   "sourceDirName": "overview",
   "slug": "/overview/use-cases",
-  "permalink": "/docs/overview/use-cases",
+  "permalink": "/legendTest/docs/overview/use-cases",
   "draft": false,
   "tags": [],
   "version": "current",
@@ -18,10 +18,10 @@
   "sidebar": "docs",
   "previous": {
     "title": "What is Legend?",
-    "permalink": "/docs/overview/legend-overview"
+    "permalink": "/legendTest/docs/overview/legend-overview"
   },
   "next": {
     "title": "Architecture",
-    "permalink": "/docs/overview/architecture"
+    "permalink": "/legendTest/docs/overview/architecture"
   }
 }

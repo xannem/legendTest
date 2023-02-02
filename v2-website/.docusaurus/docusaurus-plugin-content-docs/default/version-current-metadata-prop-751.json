@@ -16,19 +16,19 @@
           {
             "type": "link",
             "label": "What is Legend?",
-            "href": "/docs/overview/legend-overview",
+            "href": "/legendTest/docs/overview/legend-overview",
             "docId": "overview/legend-overview"
           },
           {
             "type": "link",
             "label": "Use Cases",
-            "href": "/docs/overview/use-cases",
+            "href": "/legendTest/docs/overview/use-cases",
             "docId": "overview/use-cases"
           },
           {
             "type": "link",
             "label": "Architecture",
-            "href": "/docs/overview/architecture",
+            "href": "/legendTest/docs/overview/architecture",
             "docId": "overview/architecture"
           }
         ],
@@ -42,13 +42,13 @@
           {
             "type": "link",
             "label": "Introduction to Legend",
-            "href": "/docs/getting-started/introduction-to-legend",
+            "href": "/legendTest/docs/getting-started/introduction-to-legend",
             "docId": "getting-started/introduction-to-legend"
           },
           {
             "type": "link",
             "label": "Installation Guide",
-            "href": "/docs/getting-started/installation-guide",
+            "href": "/legendTest/docs/getting-started/installation-guide",
             "docId": "getting-started/installation-guide"
           }
         ],
@@ -62,13 +62,13 @@
           {
             "type": "link",
             "label": "Studio",
-            "href": "/docs/tutorials/studio-tutorial",
+            "href": "/legendTest/docs/tutorials/studio-tutorial",
             "docId": "tutorials/studio-tutorial"
           },
           {
             "type": "link",
             "label": "Query",
-            "href": "/docs/tutorials/query-tutorial",
+            "href": "/legendTest/docs/tutorials/query-tutorial",
             "docId": "tutorials/query-tutorial"
           }
         ],
@@ -82,13 +82,13 @@
           {
             "type": "link",
             "label": "Legend Concepts",
-            "href": "/docs/concepts/legend-concepts",
+            "href": "/legendTest/docs/concepts/legend-concepts",
             "docId": "concepts/legend-concepts"
           },
           {
             "type": "link",
             "label": "Data Modeling Concepts",
-            "href": "/docs/concepts/data-modeling-concepts",
+            "href": "/legendTest/docs/concepts/data-modeling-concepts",
             "docId": "concepts/data-modeling-concepts"
           }
         ],
@@ -102,37 +102,37 @@
           {
             "type": "link",
             "label": "Legend Language",
-            "href": "/docs/reference/legend-language",
+            "href": "/legendTest/docs/reference/legend-language",
             "docId": "reference/legend-language"
           },
           {
             "type": "link",
             "label": "Released functions",
-            "href": "/docs/reference/released-functions",
+            "href": "/legendTest/docs/reference/released-functions",
             "docId": "reference/released-functions"
           },
           {
             "type": "link",
             "label": "Upcoming functions",
-            "href": "/docs/reference/upcoming-functions",
+            "href": "/legendTest/docs/reference/upcoming-functions",
             "docId": "reference/upcoming-functions"
           },
           {
             "type": "link",
             "label": "Stores",
-            "href": "/docs/reference/stores",
+            "href": "/legendTest/docs/reference/stores",
             "docId": "reference/stores"
           },
           {
             "type": "link",
             "label": "Bindings",
-            "href": "/docs/reference/bindings",
+            "href": "/legendTest/docs/reference/bindings",
             "docId": "reference/bindings"
           },
           {
             "type": "link",
             "label": "Query Protocol",
-            "href": "/docs/reference/query-protocol",
+            "href": "/legendTest/docs/reference/query-protocol",
             "docId": "reference/query-protocol"
           }
         ],
@@ -146,19 +146,19 @@
           {
             "type": "link",
             "label": "Release 2022-05-05",
-            "href": "/docs/release/release-2022-05-05",
+            "href": "/legendTest/docs/release/release-2022-05-05",
             "docId": "release/release-2022-05-05"
           },
           {
             "type": "link",
             "label": "Release 2022-04-26",
-            "href": "/docs/release/release-2022-04-26",
+            "href": "/legendTest/docs/release/release-2022-04-26",
             "docId": "release/release-2022-04-26"
           },
           {
             "type": "link",
             "label": "Release 2021-10-18",
-            "href": "/docs/release/release-2021-10-18",
+            "href": "/legendTest/docs/release/release-2021-10-18",
             "docId": "release/release-2021-10-18"
           }
         ],
@@ -172,7 +172,7 @@
           {
             "type": "link",
             "label": "Case Studies",
-            "href": "/docs/case-studies/legend-case-studies",
+            "href": "/legendTest/docs/case-studies/legend-case-studies",
             "docId": "case-studies/legend-case-studies"
           }
         ],
@@ -186,31 +186,31 @@
           {
             "type": "link",
             "label": "Contribute",
-            "href": "/docs/community/contribute-to-legend",
+            "href": "/legendTest/docs/community/contribute-to-legend",
             "docId": "community/contribute-to-legend"
           },
           {
             "type": "link",
             "label": "Roadmap",
-            "href": "/docs/community/legend-roadmap",
+            "href": "/legendTest/docs/community/legend-roadmap",
             "docId": "community/legend-roadmap"
           },
           {
             "type": "link",
             "label": "Get Help",
-            "href": "/docs/community/get-help-from-community",
+            "href": "/legendTest/docs/community/get-help-from-community",
             "docId": "community/get-help-from-community"
           },
           {
             "type": "link",
             "label": "Legend in the Media",
-            "href": "/docs/community/legend-media",
+            "href": "/legendTest/docs/community/legend-media",
             "docId": "community/legend-media"
           },
           {
             "type": "link",
             "label": "Terms of service",
-            "href": "/docs/community/terms-of-service",
+            "href": "/legendTest/docs/community/terms-of-service",
             "docId": "community/terms-of-service"
           }
         ],

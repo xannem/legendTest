@@ -3,218 +3,213 @@ import ComponentCreator from '@docusaurus/ComponentCreator';
 
 export default [
   {
-    path: '/__docusaurus/debug/',
-    component: ComponentCreator('/__docusaurus/debug/', '487'),
+    path: '/legendTest/__docusaurus/debug',
+    component: ComponentCreator('/legendTest/__docusaurus/debug', 'c38'),
     exact: true
   },
   {
-    path: '/__docusaurus/debug/config/',
-    component: ComponentCreator('/__docusaurus/debug/config/', 'b88'),
+    path: '/legendTest/__docusaurus/debug/config',
+    component: ComponentCreator('/legendTest/__docusaurus/debug/config', 'a42'),
     exact: true
   },
   {
-    path: '/__docusaurus/debug/content/',
-    component: ComponentCreator('/__docusaurus/debug/content/', '88a'),
+    path: '/legendTest/__docusaurus/debug/content',
+    component: ComponentCreator('/legendTest/__docusaurus/debug/content', '467'),
     exact: true
   },
   {
-    path: '/__docusaurus/debug/globalData/',
-    component: ComponentCreator('/__docusaurus/debug/globalData/', '0d0'),
+    path: '/legendTest/__docusaurus/debug/globalData',
+    component: ComponentCreator('/legendTest/__docusaurus/debug/globalData', 'f2f'),
     exact: true
   },
   {
-    path: '/__docusaurus/debug/metadata/',
-    component: ComponentCreator('/__docusaurus/debug/metadata/', 'c02'),
+    path: '/legendTest/__docusaurus/debug/metadata',
+    component: ComponentCreator('/legendTest/__docusaurus/debug/metadata', 'd9a'),
     exact: true
   },
   {
-    path: '/__docusaurus/debug/registry/',
-    component: ComponentCreator('/__docusaurus/debug/registry/', '18e'),
+    path: '/legendTest/__docusaurus/debug/registry',
+    component: ComponentCreator('/legendTest/__docusaurus/debug/registry', '5a2'),
     exact: true
   },
   {
-    path: '/__docusaurus/debug/routes/',
-    component: ComponentCreator('/__docusaurus/debug/routes/', 'bd8'),
+    path: '/legendTest/__docusaurus/debug/routes',
+    component: ComponentCreator('/legendTest/__docusaurus/debug/routes', 'a10'),
     exact: true
   },
   {
-    path: '/releases/',
-    component: ComponentCreator('/releases/', '07d'),
+    path: '/releases',
+    component: ComponentCreator('/releases', 'fb1'),
     exact: true
   },
   {
-    path: '/search/',
-    component: ComponentCreator('/search/', '6ad'),
-    exact: true
-  },
-  {
-    path: '/docs/',
-    component: ComponentCreator('/docs/', '25c'),
+    path: '/legendTest/docs',
+    component: ComponentCreator('/legendTest/docs', 'aa1'),
     routes: [
       {
-        path: '/docs/case-studies/legend-case-studies/',
-        component: ComponentCreator('/docs/case-studies/legend-case-studies/', '53f'),
+        path: '/legendTest/docs/case-studies/legend-case-studies',
+        component: ComponentCreator('/legendTest/docs/case-studies/legend-case-studies', '17b'),
         exact: true,
         sidebar: "docs"
       },
       {
-        path: '/docs/community/contribute-to-legend/',
-        component: ComponentCreator('/docs/community/contribute-to-legend/', '95d'),
+        path: '/legendTest/docs/community/contribute-to-legend',
+        component: ComponentCreator('/legendTest/docs/community/contribute-to-legend', '606'),
         exact: true,
         sidebar: "docs"
       },
       {
-        path: '/docs/community/get-help-from-community/',
-        component: ComponentCreator('/docs/community/get-help-from-community/', '934'),
+        path: '/legendTest/docs/community/get-help-from-community',
+        component: ComponentCreator('/legendTest/docs/community/get-help-from-community', 'f1d'),
         exact: true,
         sidebar: "docs"
       },
       {
-        path: '/docs/community/legend-media/',
-        component: ComponentCreator('/docs/community/legend-media/', '83a'),
+        path: '/legendTest/docs/community/legend-media',
+        component: ComponentCreator('/legendTest/docs/community/legend-media', '98f'),
         exact: true,
         sidebar: "docs"
       },
       {
-        path: '/docs/community/legend-roadmap/',
-        component: ComponentCreator('/docs/community/legend-roadmap/', '1b7'),
+        path: '/legendTest/docs/community/legend-roadmap',
+        component: ComponentCreator('/legendTest/docs/community/legend-roadmap', '0c6'),
         exact: true,
         sidebar: "docs"
       },
       {
-        path: '/docs/community/terms-of-service/',
-        component: ComponentCreator('/docs/community/terms-of-service/', 'd29'),
+        path: '/legendTest/docs/community/terms-of-service',
+        component: ComponentCreator('/legendTest/docs/community/terms-of-service', '83a'),
         exact: true,
         sidebar: "docs"
       },
       {
-        path: '/docs/concepts/data-modeling-concepts/',
-        component: ComponentCreator('/docs/concepts/data-modeling-concepts/', 'c7e'),
+        path: '/legendTest/docs/concepts/data-modeling-concepts',
+        component: ComponentCreator('/legendTest/docs/concepts/data-modeling-concepts', '8b7'),
         exact: true,
         sidebar: "docs"
       },
       {
-        path: '/docs/concepts/legend-concepts/',
-        component: ComponentCreator('/docs/concepts/legend-concepts/', 'b55'),
+        path: '/legendTest/docs/concepts/legend-concepts',
+        component: ComponentCreator('/legendTest/docs/concepts/legend-concepts', 'b1f'),
         exact: true,
         sidebar: "docs"
       },
       {
-        path: '/docs/getting-started/installation-guide/',
-        component: ComponentCreator('/docs/getting-started/installation-guide/', 'cff'),
+        path: '/legendTest/docs/getting-started/installation-guide',
+        component: ComponentCreator('/legendTest/docs/getting-started/installation-guide', '77d'),
         exact: true,
         sidebar: "docs"
       },
       {
-        path: '/docs/getting-started/introduction-to-legend/',
-        component: ComponentCreator('/docs/getting-started/introduction-to-legend/', '5f7'),
+        path: '/legendTest/docs/getting-started/introduction-to-legend',
+        component: ComponentCreator('/legendTest/docs/getting-started/introduction-to-legend', '510'),
         exact: true,
         sidebar: "docs"
       },
       {
-        path: '/docs/overview/architecture/',
-        component: ComponentCreator('/docs/overview/architecture/', '173'),
+        path: '/legendTest/docs/overview/architecture',
+        component: ComponentCreator('/legendTest/docs/overview/architecture', '463'),
         exact: true,
         sidebar: "docs"
       },
       {
-        path: '/docs/overview/legend-overview/',
-        component: ComponentCreator('/docs/overview/legend-overview/', 'c36'),
+        path: '/legendTest/docs/overview/legend-overview',
+        component: ComponentCreator('/legendTest/docs/overview/legend-overview', 'e0b'),
         exact: true,
         sidebar: "docs"
       },
       {
-        path: '/docs/overview/use-cases/',
-        component: ComponentCreator('/docs/overview/use-cases/', '62a'),
+        path: '/legendTest/docs/overview/use-cases',
+        component: ComponentCreator('/legendTest/docs/overview/use-cases', 'd37'),
         exact: true,
         sidebar: "docs"
       },
       {
-        path: '/docs/reference/bindings/',
-        component: ComponentCreator('/docs/reference/bindings/', '496'),
+        path: '/legendTest/docs/reference/bindings',
+        component: ComponentCreator('/legendTest/docs/reference/bindings', 'a28'),
         exact: true,
         sidebar: "docs"
       },
       {
-        path: '/docs/reference/legend-language/',
-        component: ComponentCreator('/docs/reference/legend-language/', '93d'),
+        path: '/legendTest/docs/reference/legend-language',
+        component: ComponentCreator('/legendTest/docs/reference/legend-language', 'd2c'),
         exact: true,
         sidebar: "docs"
       },
       {
-        path: '/docs/reference/query-protocol/',
-        component: ComponentCreator('/docs/reference/query-protocol/', 'fa8'),
+        path: '/legendTest/docs/reference/query-protocol',
+        component: ComponentCreator('/legendTest/docs/reference/query-protocol', '960'),
         exact: true,
         sidebar: "docs"
       },
       {
-        path: '/docs/reference/released-functions/',
-        component: ComponentCreator('/docs/reference/released-functions/', '44d'),
+        path: '/legendTest/docs/reference/released-functions',
+        component: ComponentCreator('/legendTest/docs/reference/released-functions', 'eb4'),
         exact: true,
         sidebar: "docs"
       },
       {
-        path: '/docs/reference/stores/',
-        component: ComponentCreator('/docs/reference/stores/', '438'),
+        path: '/legendTest/docs/reference/stores',
+        component: ComponentCreator('/legendTest/docs/reference/stores', 'a53'),
         exact: true,
         sidebar: "docs"
       },
       {
-        path: '/docs/reference/upcoming-functions/',
-        component: ComponentCreator('/docs/reference/upcoming-functions/', 'be4'),
+        path: '/legendTest/docs/reference/upcoming-functions',
+        component: ComponentCreator('/legendTest/docs/reference/upcoming-functions', '884'),
         exact: true,
         sidebar: "docs"
       },
       {
-        path: '/docs/release/release-2021-10-18/',
-        component: ComponentCreator('/docs/release/release-2021-10-18/', '3a1'),
+        path: '/legendTest/docs/release/release-2021-10-18',
+        component: ComponentCreator('/legendTest/docs/release/release-2021-10-18', '774'),
         exact: true,
         sidebar: "docs"
       },
       {
-        path: '/docs/release/release-2022-04-26/',
-        component: ComponentCreator('/docs/release/release-2022-04-26/', '0e0'),
+        path: '/legendTest/docs/release/release-2022-04-26',
+        component: ComponentCreator('/legendTest/docs/release/release-2022-04-26', '404'),
         exact: true,
         sidebar: "docs"
       },
       {
-        path: '/docs/release/release-2022-05-05/',
-        component: ComponentCreator('/docs/release/release-2022-05-05/', '96f'),
+        path: '/legendTest/docs/release/release-2022-05-05',
+        component: ComponentCreator('/legendTest/docs/release/release-2022-05-05', '3ed'),
         exact: true,
         sidebar: "docs"
       },
       {
-        path: '/docs/sdlc/project-structure/',
-        component: ComponentCreator('/docs/sdlc/project-structure/', 'd5a'),
+        path: '/legendTest/docs/sdlc/project-structure',
+        component: ComponentCreator('/legendTest/docs/sdlc/project-structure', '01e'),
         exact: true
       },
       {
-        path: '/docs/showcases/LogicalModellingBasic/',
-        component: ComponentCreator('/docs/showcases/LogicalModellingBasic/', 'b40'),
+        path: '/legendTest/docs/showcases/LogicalModellingBasic',
+        component: ComponentCreator('/legendTest/docs/showcases/LogicalModellingBasic', '70f'),
         exact: true
       },
       {
-        path: '/docs/tour/',
-        component: ComponentCreator('/docs/tour/', '657'),
+        path: '/legendTest/docs/tour',
+        component: ComponentCreator('/legendTest/docs/tour', '3a4'),
         exact: true
       },
       {
-        path: '/docs/tutorials/query-tutorial/',
-        component: ComponentCreator('/docs/tutorials/query-tutorial/', '278'),
+        path: '/legendTest/docs/tutorials/query-tutorial',
+        component: ComponentCreator('/legendTest/docs/tutorials/query-tutorial', '13e'),
         exact: true,
         sidebar: "docs"
       },
       {
-        path: '/docs/tutorials/studio-tutorial/',
-        component: ComponentCreator('/docs/tutorials/studio-tutorial/', '2c8'),
+        path: '/legendTest/docs/tutorials/studio-tutorial',
+        component: ComponentCreator('/legendTest/docs/tutorials/studio-tutorial', 'ec1'),
         exact: true,
         sidebar: "docs"
       }
     ]
   },
   {
-    path: '/',
-    component: ComponentCreator('/', '9c7'),
+    path: '/legendTest/',
+    component: ComponentCreator('/legendTest/', 'a97'),
     exact: true
   },
   {

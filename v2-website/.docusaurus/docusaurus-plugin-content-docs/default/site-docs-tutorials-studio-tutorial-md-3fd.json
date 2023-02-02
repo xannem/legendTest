@@ -6,7 +6,7 @@
   "source": "@site/../docs/tutorials/studio-tutorial.md",
   "sourceDirName": "tutorials",
   "slug": "/tutorials/studio-tutorial",
-  "permalink": "/docs/tutorials/studio-tutorial",
+  "permalink": "/legendTest/docs/tutorials/studio-tutorial",
   "draft": false,
   "tags": [],
   "version": "current",
@@ -18,10 +18,10 @@
   "sidebar": "docs",
   "previous": {
     "title": "Installation Guide",
-    "permalink": "/docs/getting-started/installation-guide"
+    "permalink": "/legendTest/docs/getting-started/installation-guide"
   },
   "next": {
     "title": "Query",
-    "permalink": "/docs/tutorials/query-tutorial"
+    "permalink": "/legendTest/docs/tutorials/query-tutorial"
   }
 }

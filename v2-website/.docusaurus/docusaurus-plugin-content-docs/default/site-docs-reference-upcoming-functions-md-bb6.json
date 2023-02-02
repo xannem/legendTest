@@ -6,7 +6,7 @@
   "source": "@site/../docs/reference/upcoming-functions.md",
   "sourceDirName": "reference",
   "slug": "/reference/upcoming-functions",
-  "permalink": "/docs/reference/upcoming-functions",
+  "permalink": "/legendTest/docs/reference/upcoming-functions",
   "draft": false,
   "tags": [],
   "version": "current",
@@ -17,10 +17,10 @@
   "sidebar": "docs",
   "previous": {
     "title": "Released functions",
-    "permalink": "/docs/reference/released-functions"
+    "permalink": "/legendTest/docs/reference/released-functions"
   },
   "next": {
     "title": "Stores",
-    "permalink": "/docs/reference/stores"
+    "permalink": "/legendTest/docs/reference/stores"
   }
 }

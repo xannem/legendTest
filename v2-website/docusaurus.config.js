@@ -5,7 +5,7 @@ module.exports = {
   tagline:
     "Language and visual platform to generate models for the financial services industry",
   url: "https://xannem.github.io/",
-  baseUrl: "/",
+  baseUrl: "/legendTest/",
   organizationName: "xannem",
   deploymentBranch: "gh-pages",
   trailingSlash: true,

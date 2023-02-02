@@ -2,167 +2,173 @@
   "/legendTest/__docusaurus/debug-c38": {
     "__comp": "__comp---theme-debug-config-23-a-2ff",
     "__context": {
-      "plugin": "plugin---legend-test-docusaurus-debug-b-1-b-60f"
+      "plugin": "plugin---legend-test-docusaurus-debugb-1-b-cc5"
     }
   },
   "/legendTest/__docusaurus/debug/config-a42": {
     "__comp": "__comp---theme-debug-config-23-a-2ff",
     "__context": {
-      "plugin": "plugin---legend-test-docusaurus-debug-b-1-b-60f"
+      "plugin": "plugin---legend-test-docusaurus-debugb-1-b-cc5"
     }
   },
   "/legendTest/__docusaurus/debug/content-467": {
     "__comp": "__comp---theme-debug-contentba-8-ce7",
     "__context": {
-      "plugin": "plugin---legend-test-docusaurus-debug-b-1-b-60f"
+      "plugin": "plugin---legend-test-docusaurus-debugb-1-b-cc5"
     },
-    "allContent": "allContent---legend-test-docusaurus-debug-content-246-4f7"
+    "allContent": "allContent---legend-test-docusaurus-debug-content-246-bb4"
   },
   "/legendTest/__docusaurus/debug/globalData-f2f": {
     "__comp": "__comp---theme-debug-global-dataede-0fa",
     "__context": {
-      "plugin": "plugin---legend-test-docusaurus-debug-b-1-b-60f"
+      "plugin": "plugin---legend-test-docusaurus-debugb-1-b-cc5"
     }
   },
   "/legendTest/__docusaurus/debug/metadata-d9a": {
     "__comp": "__comp---theme-debug-site-metadata-68-e-3d4",
     "__context": {
-      "plugin": "plugin---legend-test-docusaurus-debug-b-1-b-60f"
+      "plugin": "plugin---legend-test-docusaurus-debugb-1-b-cc5"
     }
   },
   "/legendTest/__docusaurus/debug/registry-5a2": {
     "__comp": "__comp---theme-debug-registry-679-501",
     "__context": {
-      "plugin": "plugin---legend-test-docusaurus-debug-b-1-b-60f"
+      "plugin": "plugin---legend-test-docusaurus-debugb-1-b-cc5"
     }
   },
   "/legendTest/__docusaurus/debug/routes-a10": {
     "__comp": "__comp---theme-debug-routes-946-699",
     "__context": {
-      "plugin": "plugin---legend-test-docusaurus-debug-b-1-b-60f"
+      "plugin": "plugin---legend-test-docusaurus-debugb-1-b-cc5"
+    }
+  },
+  "/legendTest/search-28b": {
+    "__comp": "__comp---theme-search-page-1-a-4-d6f",
+    "__context": {
+      "plugin": "plugin---legend-test-search-0-d-5-b39"
     }
   },
   "/releases-fb1": {
     "__comp": "__comp---site-src-components-releases-js-47-a-d1a",
     "__context": {
-      "plugin": "plugin---releases-6-a-1-d2d"
+      "plugin": "plugin---releases-6-a-1-6d6"
     },
-    "releasesData": "releasesData---releases-8-ab-76c"
+    "releasesData": "releasesData---releases-8-ab-b1f"
   },
   "/legendTest/docs-aa1": {
     "__comp": "__comp---theme-doc-page-1-be-9be",
     "__context": {
-      "plugin": "plugin---legend-test-docs-d-1-a-11e"
+      "plugin": "plugin---legend-test-docsd-1-a-8ce"
     },
-    "versionMetadata": "versionMetadata---legend-test-docs-935-56c"
+    "versionMetadata": "versionMetadata---legend-test-docs-935-041"
   },
   "/legendTest/docs/case-studies/legend-case-studies-17b": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---legend-test-docs-case-studies-legend-case-studies-d-62-ba1"
+    "content": "content---legend-test-docs-case-studies-legend-case-studiesd-62-de6"
   },
   "/legendTest/docs/community/contribute-to-legend-606": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---legend-test-docs-community-contribute-to-legend-9-e-8-dcf"
+    "content": "content---legend-test-docs-community-contribute-to-legend-9-e-8-de4"
   },
   "/legendTest/docs/community/get-help-from-community-f1d": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---legend-test-docs-community-get-help-from-community-521-7a6"
+    "content": "content---legend-test-docs-community-get-help-from-community-521-8fd"
   },
   "/legendTest/docs/community/legend-media-98f": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---legend-test-docs-community-legend-media-884-415"
+    "content": "content---legend-test-docs-community-legend-media-884-c7b"
   },
   "/legendTest/docs/community/legend-roadmap-0c6": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---legend-test-docs-community-legend-roadmap-833-f7b"
+    "content": "content---legend-test-docs-community-legend-roadmap-833-ddf"
   },
   "/legendTest/docs/community/terms-of-service-83a": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---legend-test-docs-community-terms-of-service-35-d-300"
+    "content": "content---legend-test-docs-community-terms-of-service-35-d-0ac"
   },
   "/legendTest/docs/concepts/data-modeling-concepts-8b7": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---legend-test-docs-concepts-data-modeling-concepts-2-c-1-054"
+    "content": "content---legend-test-docs-concepts-data-modeling-concepts-2-c-1-c47"
   },
   "/legendTest/docs/concepts/legend-concepts-b1f": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---legend-test-docs-concepts-legend-concepts-c-3-b-bc4"
+    "content": "content---legend-test-docs-concepts-legend-conceptsc-3-b-d28"
   },
   "/legendTest/docs/getting-started/installation-guide-77d": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---legend-test-docs-getting-started-installation-guide-2-a-2-eb5"
+    "content": "content---legend-test-docs-getting-started-installation-guide-2-a-2-e95"
   },
   "/legendTest/docs/getting-started/introduction-to-legend-510": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---legend-test-docs-getting-started-introduction-to-legend-eb-8-5fb"
+    "content": "content---legend-test-docs-getting-started-introduction-to-legendeb-8-bd5"
   },
   "/legendTest/docs/overview/architecture-463": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---legend-test-docs-overview-architecture-875-32d"
+    "content": "content---legend-test-docs-overview-architecture-875-971"
   },
   "/legendTest/docs/overview/legend-overview-e0b": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---legend-test-docs-overview-legend-overview-9-b-7-562"
+    "content": "content---legend-test-docs-overview-legend-overview-9-b-7-e73"
   },
   "/legendTest/docs/overview/use-cases-d37": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---legend-test-docs-overview-use-cases-32-d-4c7"
+    "content": "content---legend-test-docs-overview-use-cases-32-d-568"
   },
   "/legendTest/docs/reference/bindings-a28": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---legend-test-docs-reference-bindings-ae-5-83f"
+    "content": "content---legend-test-docs-reference-bindingsae-5-7a2"
   },
   "/legendTest/docs/reference/legend-language-d2c": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---legend-test-docs-reference-legend-language-dac-cba"
+    "content": "content---legend-test-docs-reference-legend-languagedac-64b"
   },
   "/legendTest/docs/reference/query-protocol-960": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---legend-test-docs-reference-query-protocol-840-83f"
+    "content": "content---legend-test-docs-reference-query-protocol-840-139"
   },
   "/legendTest/docs/reference/released-functions-eb4": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---legend-test-docs-reference-released-functions-c-68-a91"
+    "content": "content---legend-test-docs-reference-released-functionsc-68-ebc"
   },
   "/legendTest/docs/reference/stores-a53": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---legend-test-docs-reference-stores-d-9-c-380"
+    "content": "content---legend-test-docs-reference-storesd-9-c-080"
   },
   "/legendTest/docs/reference/upcoming-functions-884": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---legend-test-docs-reference-upcoming-functions-bb-6-fb4"
+    "content": "content---legend-test-docs-reference-upcoming-functionsbb-6-b5f"
   },
   "/legendTest/docs/release/release-2021-10-18-774": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---legend-test-docs-release-release-2021-10-18-d-21-30e"
+    "content": "content---legend-test-docs-release-release-2021-10-18-d-21-cee"
   },
   "/legendTest/docs/release/release-2022-04-26-404": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---legend-test-docs-release-release-2022-04-26-192-3b8"
+    "content": "content---legend-test-docs-release-release-2022-04-26192-e2d"
   },
   "/legendTest/docs/release/release-2022-05-05-3ed": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---legend-test-docs-release-release-2022-05-05-3-c-8-866"
+    "content": "content---legend-test-docs-release-release-2022-05-053-c-8-e61"
   },
   "/legendTest/docs/sdlc/project-structure-01e": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---legend-test-docs-sdlc-project-structure-f-24-08b"
+    "content": "content---legend-test-docs-sdlc-project-structuref-24-023"
   },
   "/legendTest/docs/showcases/LogicalModellingBasic-70f": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---legend-test-docs-showcases-logical-modelling-basic-ff-8-511"
+    "content": "content---legend-test-docs-showcases-logical-modelling-basicff-8-e40"
   },
   "/legendTest/docs/tour-3a4": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---legend-test-docs-tour-044-b57"
+    "content": "content---legend-test-docs-tour-044-70c"
   },
   "/legendTest/docs/tutorials/query-tutorial-13e": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---legend-test-docs-tutorials-query-tutorial-d-6-b-047"
+    "content": "content---legend-test-docs-tutorials-query-tutoriald-6-b-d54"
   },
   "/legendTest/docs/tutorials/studio-tutorial-ec1": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---legend-test-docs-tutorials-studio-tutorial-3-fd-97e"
+    "content": "content---legend-test-docs-tutorials-studio-tutorial-3-fd-f68"
   },
   "/legendTest/-a97": {
     "__comp": "__comp---site-src-pages-index-jsc-4-f-f99",

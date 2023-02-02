@@ -889,6 +889,7 @@
   "docusaurus-plugin-google-analytics": {},
   "docusaurus-plugin-debug": {},
   "docusaurus-theme-classic": {},
+  "docusaurus-theme-search-algolia": {},
   "docusaurus-releases-plugin": {
     "default": [
       {

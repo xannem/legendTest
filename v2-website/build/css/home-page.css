@@ -183,7 +183,7 @@
 .home-page__content__whatis {
   height: 90rem;
   width: 100%;
-  background: var(--color-dark-grey-150);
+  background: var(--color-home-page__secondary-container-background);
   clip-path: polygon(0 9rem, 100% 0, 100% 90rem, 0 80rem);
 }
 
@@ -530,18 +530,13 @@
   }
 }
 
-
-
 /**
  * NOTE: V2
  */
 
-
- .navbar__brand {
-  margin-left:25px;
- }
- .navbar__logo {
-  min-height:35px;
- }
-
- 
+.navbar__brand {
+  margin-left: 25px;
+}
+.navbar__logo {
+  min-height: 35px;
+}

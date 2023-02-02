@@ -185,7 +185,7 @@
 .home-page__content__whatis {
   height: 90rem;
   width: 100%;
-  background: var(--color-dark-grey-150);
+  background:green;
   clip-path: polygon(0 9rem, 100% 0, 100% 90rem, 0 80rem);
 }
 
@@ -225,10 +225,10 @@
 }
 
 .home-page__extra__spacing {
-  padding-top:100px;
+  padding-top: 100px;
 }
 
-.home-page__content__whatis__text{
+.home-page__content__whatis__text {
   font-size: 2rem;
 }
 .home-page__content__whatis__text__question {

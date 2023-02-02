@@ -51,6 +51,14 @@ export default {
     null
   ],
   "themeConfig": {
+    "algolia": {
+      "appId": "X69JR631XX",
+      "apiKey": "b8ea4fa1535a60bc9385193ba58dcd69",
+      "indexName": "legend-finos",
+      "contextualSearch": false,
+      "searchPagePath": "search",
+      "searchParameters": {}
+    },
     "colorMode": {
       "defaultMode": "dark",
       "disableSwitch": false,

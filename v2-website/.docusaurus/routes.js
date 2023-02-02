@@ -38,6 +38,11 @@ export default [
     exact: true
   },
   {
+    path: '/legendTest/search',
+    component: ComponentCreator('/legendTest/search', '28b'),
+    exact: true
+  },
+  {
     path: '/releases',
     component: ComponentCreator('/releases', 'fb1'),
     exact: true

@@ -3,7 +3,7 @@ id: contribute-to-legend
 title: Contribute
 sidebar_label: Contribute
 ---
-Test. There are many ways to contribute to Legend and many of them don't involve writing any code. Here are a few ideas to get started:
+Test2. There are many ways to contribute to Legend and many of them don't involve writing any code. Here are a few ideas to get started:
 
 1.  [Contribute code](contribute-to-legend.md#contribute-code) to any of the Legend components by submitting a pull request.
 

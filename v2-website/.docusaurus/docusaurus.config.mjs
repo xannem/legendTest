@@ -52,9 +52,9 @@ export default {
   ],
   "themeConfig": {
     "algolia": {
-      "appId": "X69JR631XX",
-      "apiKey": "b8ea4fa1535a60bc9385193ba58dcd69",
-      "indexName": "legend-finos",
+      "appId": "U6UFNKV5OX",
+      "apiKey": "65d4c650f2d485fca31b93154bfa7606",
+      "indexName": "legend-test",
       "contextualSearch": false,
       "searchPagePath": "search",
       "searchParameters": {}

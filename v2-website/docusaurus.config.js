@@ -95,13 +95,13 @@ module.exports = {
     // },
       algolia: {
       // The application ID provided by Algolia
-      appId: "X69JR631XX",
+      appId: "U6UFNKV5OX",
 
       // Public API key: it is safe to commit it
       //86ec4b2b02b99254ba236724fe4fef6b
-      apiKey: "b8ea4fa1535a60bc9385193ba58dcd69",
+      apiKey: "65d4c650f2d485fca31b93154bfa7606",
 
-      indexName: "legend-finos",
+      indexName: "legend-test",
 
       // Optional: see doc section below
       contextualSearch: false,

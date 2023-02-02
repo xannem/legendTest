@@ -13,9 +13,9 @@
           "tagsPath": "/docs/tags",
           "isLast": true,
           "routePriority": -1,
-          "sidebarFilePath": "/Users/shoe/Documents/Github/legend/v2-website/sidebars.json",
-          "contentPath": "/Users/shoe/Documents/Github/legend/docs",
-          "contentPathLocalized": "/Users/shoe/Documents/Github/legend/v2-website/i18n/en/docusaurus-plugin-content-docs/current",
+          "sidebarFilePath": "/Users/shoe/Documents/Github/legendTest/v2-website/sidebars.json",
+          "contentPath": "/Users/shoe/Documents/Github/legendTest/docs",
+          "contentPathLocalized": "/Users/shoe/Documents/Github/legendTest/v2-website/i18n/en/docusaurus-plugin-content-docs/current",
           "docs": [
             {
               "unversionedId": "case-studies/legend-case-studies",
@@ -48,7 +48,7 @@
               "unversionedId": "community/contribute-to-legend",
               "id": "community/contribute-to-legend",
               "title": "Contribute",
-              "description": "There are many ways to contribute to Legend and many of them don't involve writing any code. Here are a few ideas to get started:",
+              "description": "Test2. There are many ways to contribute to Legend and many of them don't involve writing any code. Here are a few ideas to get started:",
               "source": "@site/../docs/community/contribute-to-legend.md",
               "sourceDirName": "community",
               "slug": "/community/contribute-to-legend",

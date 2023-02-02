@@ -78,7 +78,7 @@ body {
 }
 
 .home-page__header__nav__item__link-btn {
-  color: var(--color-light-grey-300);
+  color: var(--color-home-page__nav__text);
   font-family: "Roboto Condensed";
   font-size: 1.6rem;
   line-height: 1.2;
@@ -87,7 +87,7 @@ body {
 }
 
 .home-page__header__nav__item__link-btn:hover {
-  color: var(--color-light-grey-0);
+  color: var(--color-home-page__nav__text__hover);
 }
 
 .home-page__content {
@@ -190,10 +190,14 @@ body {
   fill: #3c3731;
 }
 
+[data-theme="dark"].home-page__content__whatis {
+  background: var(--color-dark-grey-150);
+}
+
 .home-page__content__whatis {
   height: 90rem;
   width: 100%;
-  background: var(--color-dark-grey-150);
+  background: var(--color-home-page__secondary-background);
   clip-path: polygon(0 9rem, 100% 0, 100% 90rem, 0 80rem);
 }
 
@@ -337,7 +341,7 @@ body {
 
 .home-page__content__ecosystem {
   height: 140rem;
-  background: var(--color-dark-grey-150);
+  background: var(--color-home-page__secondary-background);
   clip-path: polygon(0 9rem, 100% 0, 100% 140rem, 0 100%);
 }
 

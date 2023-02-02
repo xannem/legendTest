@@ -2,15 +2,15 @@
 const pureHighlighter = require("./pureHighlighter");
 
 const siteConfig = {
-  title: "Legend",
+  title: "LegendTest",
   tagline:
     "Language and visual platform to generate models for the financial services industry",
   cname: "legend.finos.org",
   gaTrackingId: "UA-89349362-7",
   url: "https://legend.finos.org",
   baseUrl: "/",
-  projectName: "legend",
-  organizationName: "finos",
+  projectName: "legendTest",
+  organizationName: "xannem",
   headerLinks: [
     { doc: "overview/legend-overview", label: "Docs" },
     {

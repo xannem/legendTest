@@ -4,12 +4,12 @@ module.exports = {
   title: "Legend",
   tagline:
     "Language and visual platform to generate models for the financial services industry",
-  url: "https://legend.finos.org",
+  url: "https://xannem.github.io/",
   baseUrl: "/",
-  organizationName: "finos",
+  organizationName: "xannem",
   deploymentBranch: "gh-pages",
   trailingSlash: true,
-  projectName: "legend",
+  projectName: "legendTest",
   scripts: ["https://buttons.github.io/buttons.js"],
   stylesheets: [
     "https://fonts.googleapis.com/css?family=Roboto+Condensed:400,500,700,900|Source+Code+Pro:400,500,700,900&display=swap",
@@ -17,7 +17,7 @@ module.exports = {
   favicon: "img/favicon/favicon.ico",
   customFields: {
     wrapPagesHTML: true,
-    repoUrl: "https://github.com/finos/legend",
+    repoUrl: "https://github.com/xannem/legendTest/",
     highlight: {
       theme: "tomorrow-night-blue",
       hljs: function (hljsEngine) {
@@ -56,8 +56,7 @@ module.exports = {
         async loadContent() {
           const path = require("path");
           const fs = require("fs");
-          const getPath = (relPath) =>
-            path.resolve(__dirname, `${relPath}`);
+          const getPath = (relPath) => path.resolve(__dirname, `${relPath}`);
           const releases = fs
             .readdirSync(getPath("static/releases"))
             .map((dir) => {
@@ -68,7 +67,7 @@ module.exports = {
               return require(`${fullDir}/manifest.json`);
             })
             .filter(Boolean);
-            return releases;
+          return releases;
         },
 
         async contentLoaded({ content, actions }) {

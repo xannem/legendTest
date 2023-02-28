@@ -9,7 +9,7 @@ title: Upcoming functions
 <div className="pureGrammar-functionDetails">
 <div className="pureGrammar-functionParameters">
 
--   <span className="pureGrammar-parametersLabel">Parameters</span>
+-   <span className="pureGrammar-parametersLabel">-Parameters</span>
 
     -   <span className="pureGrammar-parameterName">number</span>: <span className="pureGrammar-genericType">Number</span>[<span className="pureGrammar-multiplicity">1</span>]
 

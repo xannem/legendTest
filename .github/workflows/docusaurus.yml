@@ -68,3 +68,6 @@ jobs:
           GIT_USER=$GIT_USERNAME npm run deploy --prefix v2-website
           # Run docusaurus-publish (v1)
           # GIT_USER=$GIT_USERNAME npm run publish-gh-pages --prefix v2-website
+      - name: Check links
+        run: |
+          ./test-links.sh

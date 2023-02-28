@@ -39,13 +39,16 @@ async function lookForUrlWithAnchor(url) {
     await fs.readFile(filePathName, "utf8", (err, data) => {
       if (!data) {
         console.log("ERROR. Cannot read file: ", filePathName);
+        throw new Error("Broken link found" + filePathName);
       }
       if (!data.toLocaleLowerCase().includes(anchorTag)) {
         console.log("ERROR. Cannot find url: ", url);
+        throw new Error("Broken link found" + url);
       }
     });
   } else {
     console.log("ERROR. Cannot find url: ", url);
+    throw new Error("Broken link found" + url);
   }
 }
 

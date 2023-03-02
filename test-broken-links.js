@@ -27,28 +27,24 @@ async function lookForUrlWithAnchor(url) {
     .replace(WEBSITE_DIRECTORY, "");
 
   const filePathName =
+    "./website/build/" +
     locationOfFile +
     url.substring(url.lastIndexOf("/"), url.lastIndexOf("#")) +
-    ".md";
+    ".html";
 
-  const anchorTag = url
-    .substring(url.lastIndexOf("#") + 1)
-    .replaceAll("-", " ");
+  const anchorTag = url.substring(url.lastIndexOf("#"));
 
   if (await fs.existsSync(filePathName)) {
-    await fs.readFile(filePathName, "utf8", (err, data) => {
+    await fs.readFile(filePathName, "UTF-8", (err, data) => {
       if (!data) {
-        console.log("ERROR. Cannot read file: ", filePathName);
-        throw new Error("Broken link found" + filePathName);
+        throw new Error("Broken link found " + filePathName);
       }
       if (!data.toLocaleLowerCase().includes(anchorTag)) {
-        console.log("ERROR. Cannot find url: ", url);
-        throw new Error("Broken link found" + url);
+        throw new Error("Broken link found " + url);
       }
     });
   } else {
-    console.log("ERROR. Cannot find url: ", url);
-    throw new Error("Broken link found" + url);
+    throw new Error("Broken link found " + url);
   }
 }
 
@@ -60,17 +56,17 @@ async function lookForUrl(url) {
   fileName = currUrl.substring(lastDirectoryIndex);
   currUrlFinal = currUrl.substring(0, lastDirectoryIndex);
 
-  if (fs.existsSync(currUrlFinal)) {
+  if (fs.existsSync("./website/build/" + currUrlFinal)) {
     if (fileName.lastIndexOf("#") !== -1) {
       //includes markdown tag
       lookForUrlWithAnchor(url);
     } else {
       if (!fs.existsSync(currUrlFinal + fileName + ".md")) {
-        console.log("ERROR. This url does not exist:", currUrl);
+        throw new Error("Broken link found " + url);
       }
     }
   } else {
-    console.log("ERROR. This url does not exist:", currUrl);
+    throw new Error("Broken link found " + url);
   }
   return;
 }
